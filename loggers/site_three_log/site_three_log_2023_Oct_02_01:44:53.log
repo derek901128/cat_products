@@ -1,0 +1,2540 @@
+2023-Oct-02 01:44:53 - 
+****************************************************************************************************************************
+
+2023-Oct-02 01:44:53 - Fetching from https://www.catiscat.com.hk/index.php?route=product/manufacturer starting
+2023-Oct-02 01:44:53 - 
+****************************************************************************************************************************
+
+2023-Oct-02 01:44:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=288
+2023-Oct-02 01:44:54 - Manufacturer html fetched
+2023-Oct-02 01:44:54 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:54 - Number of pages for be fetched for A LA CARTE: 1
+2023-Oct-02 01:44:54 - ----> A LA CARTE: Names fetched !
+2023-Oct-02 01:44:54 - ----> A LA CARTE: Prices fetched !
+2023-Oct-02 01:44:54 - ----> A LA CARTE: Link fetched !
+2023-Oct-02 01:44:54 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=66
+2023-Oct-02 01:44:54 - Manufacturer html fetched
+2023-Oct-02 01:44:54 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:54 - Number of pages for be fetched for AATU: 1
+2023-Oct-02 01:44:54 - ----> AATU: Names fetched !
+2023-Oct-02 01:44:54 - ----> AATU: Prices fetched !
+2023-Oct-02 01:44:54 - ----> AATU: Link fetched !
+2023-Oct-02 01:44:54 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=529
+2023-Oct-02 01:44:55 - Manufacturer html fetched
+2023-Oct-02 01:44:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:55 - Number of pages for be fetched for Absolute Bites: 1
+2023-Oct-02 01:44:55 - ----> Absolute Bites: Names fetched !
+2023-Oct-02 01:44:55 - ----> Absolute Bites: Prices fetched !
+2023-Oct-02 01:44:55 - ----> Absolute Bites: Link fetched !
+2023-Oct-02 01:44:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=324
+2023-Oct-02 01:44:55 - Manufacturer html fetched
+2023-Oct-02 01:44:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:55 - Number of pages for be fetched for Absolute Holistic: 1
+2023-Oct-02 01:44:55 - ----> Absolute Holistic: Names fetched !
+2023-Oct-02 01:44:55 - ----> Absolute Holistic: Prices fetched !
+2023-Oct-02 01:44:55 - ----> Absolute Holistic: Link fetched !
+2023-Oct-02 01:44:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=388
+2023-Oct-02 01:44:56 - Manufacturer html fetched
+2023-Oct-02 01:44:56 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:56 - Number of pages for be fetched for ACANA 愛肯拿: 1
+2023-Oct-02 01:44:56 - ----> ACANA 愛肯拿: Names fetched !
+2023-Oct-02 01:44:56 - ----> ACANA 愛肯拿: Prices fetched !
+2023-Oct-02 01:44:56 - ----> ACANA 愛肯拿: Link fetched !
+2023-Oct-02 01:44:56 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=263
+2023-Oct-02 01:44:56 - Manufacturer html fetched
+2023-Oct-02 01:44:56 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:56 - Number of pages for be fetched for Addiction: 1
+2023-Oct-02 01:44:56 - ----> Addiction: Names fetched !
+2023-Oct-02 01:44:56 - ----> Addiction: Prices fetched !
+2023-Oct-02 01:44:56 - ----> Addiction: Link fetched !
+2023-Oct-02 01:44:56 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=286
+2023-Oct-02 01:44:57 - Manufacturer html fetched
+2023-Oct-02 01:44:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:57 - Number of pages for be fetched for AeraMax: 1
+2023-Oct-02 01:44:57 - ----> AeraMax: Names fetched !
+2023-Oct-02 01:44:57 - ----> AeraMax: Prices fetched !
+2023-Oct-02 01:44:57 - ----> AeraMax: Link fetched !
+2023-Oct-02 01:44:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=361
+2023-Oct-02 01:44:58 - Manufacturer html fetched
+2023-Oct-02 01:44:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:58 - Number of pages for be fetched for Aime Kitchen: 1
+2023-Oct-02 01:44:58 - ----> Aime Kitchen: Names fetched !
+2023-Oct-02 01:44:58 - ----> Aime Kitchen: Prices fetched !
+2023-Oct-02 01:44:58 - ----> Aime Kitchen: Link fetched !
+2023-Oct-02 01:44:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=105
+2023-Oct-02 01:44:58 - Manufacturer html fetched
+2023-Oct-02 01:44:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:58 - Number of pages for be fetched for Aixia: 1
+2023-Oct-02 01:44:58 - ----> Aixia: Names fetched !
+2023-Oct-02 01:44:58 - ----> Aixia: Prices fetched !
+2023-Oct-02 01:44:58 - ----> Aixia: Link fetched !
+2023-Oct-02 01:44:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=71
+2023-Oct-02 01:44:59 - Manufacturer html fetched
+2023-Oct-02 01:44:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:44:59 - Number of pages for be fetched for Akane: 1
+2023-Oct-02 01:44:59 - ----> Akane: Names fetched !
+2023-Oct-02 01:44:59 - ----> Akane: Prices fetched !
+2023-Oct-02 01:44:59 - ----> Akane: Link fetched !
+2023-Oct-02 01:44:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=70
+2023-Oct-02 01:45:00 - Manufacturer html fetched
+2023-Oct-02 01:45:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:00 - Number of pages for be fetched for Akika 漁極: 1
+2023-Oct-02 01:45:00 - ----> Akika 漁極: Names fetched !
+2023-Oct-02 01:45:00 - ----> Akika 漁極: Prices fetched !
+2023-Oct-02 01:45:00 - ----> Akika 漁極: Link fetched !
+2023-Oct-02 01:45:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=482
+2023-Oct-02 01:45:00 - Manufacturer html fetched
+2023-Oct-02 01:45:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:00 - Number of pages for be fetched for Allando 奧藍多: 1
+2023-Oct-02 01:45:00 - ----> Allando 奧藍多: Names fetched !
+2023-Oct-02 01:45:00 - ----> Allando 奧藍多: Prices fetched !
+2023-Oct-02 01:45:00 - ----> Allando 奧藍多: Link fetched !
+2023-Oct-02 01:45:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=518
+2023-Oct-02 01:45:01 - Manufacturer html fetched
+2023-Oct-02 01:45:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:01 - Number of pages for be fetched for Alleva 意大利: 1
+2023-Oct-02 01:45:01 - ----> Alleva 意大利: Names fetched !
+2023-Oct-02 01:45:01 - ----> Alleva 意大利: Prices fetched !
+2023-Oct-02 01:45:01 - ----> Alleva 意大利: Link fetched !
+2023-Oct-02 01:45:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=256
+2023-Oct-02 01:45:02 - Manufacturer html fetched
+2023-Oct-02 01:45:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:02 - Number of pages for be fetched for AMEDOD漁曉吃: 1
+2023-Oct-02 01:45:02 - ----> AMEDOD漁曉吃: Names fetched !
+2023-Oct-02 01:45:02 - ----> AMEDOD漁曉吃: Prices fetched !
+2023-Oct-02 01:45:02 - ----> AMEDOD漁曉吃: Link fetched !
+2023-Oct-02 01:45:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=214
+2023-Oct-02 01:45:02 - Manufacturer html fetched
+2023-Oct-02 01:45:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:02 - Number of pages for be fetched for Animonda 德國: 1
+2023-Oct-02 01:45:02 - ----> Animonda 德國: Names fetched !
+2023-Oct-02 01:45:02 - ----> Animonda 德國: Prices fetched !
+2023-Oct-02 01:45:02 - ----> Animonda 德國: Link fetched !
+2023-Oct-02 01:45:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=243
+2023-Oct-02 01:45:03 - Manufacturer html fetched
+2023-Oct-02 01:45:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:03 - Number of pages for be fetched for Annamaet 安娜瑪特: 0
+2023-Oct-02 01:45:03 - ----> Annamaet 安娜瑪特 got no products....
+2023-Oct-02 01:45:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=67
+2023-Oct-02 01:45:03 - Manufacturer html fetched
+2023-Oct-02 01:45:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:03 - Number of pages for be fetched for Applaws: 1
+2023-Oct-02 01:45:03 - ----> Applaws: Names fetched !
+2023-Oct-02 01:45:03 - ----> Applaws: Prices fetched !
+2023-Oct-02 01:45:03 - ----> Applaws: Link fetched !
+2023-Oct-02 01:45:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=524
+2023-Oct-02 01:45:04 - Manufacturer html fetched
+2023-Oct-02 01:45:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:04 - Number of pages for be fetched for Aristopet 澳洲: 1
+2023-Oct-02 01:45:04 - ----> Aristopet 澳洲: Names fetched !
+2023-Oct-02 01:45:04 - ----> Aristopet 澳洲: Prices fetched !
+2023-Oct-02 01:45:04 - ----> Aristopet 澳洲: Link fetched !
+2023-Oct-02 01:45:04 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=317
+2023-Oct-02 01:45:04 - Manufacturer html fetched
+2023-Oct-02 01:45:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:04 - Number of pages for be fetched for Arm & Hammer: 1
+2023-Oct-02 01:45:04 - ----> Arm & Hammer: Names fetched !
+2023-Oct-02 01:45:04 - ----> Arm & Hammer: Prices fetched !
+2023-Oct-02 01:45:04 - ----> Arm & Hammer: Link fetched !
+2023-Oct-02 01:45:04 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=514
+2023-Oct-02 01:45:05 - Manufacturer html fetched
+2023-Oct-02 01:45:05 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:05 - Number of pages for be fetched for Aruba 德國: 0
+2023-Oct-02 01:45:05 - ----> Aruba 德國 got no products....
+2023-Oct-02 01:45:05 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=235
+2023-Oct-02 01:45:05 - Manufacturer html fetched
+2023-Oct-02 01:45:05 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:05 - Number of pages for be fetched for ASAN 紙貓砂: 0
+2023-Oct-02 01:45:05 - ----> ASAN 紙貓砂 got no products....
+2023-Oct-02 01:45:05 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=273
+2023-Oct-02 01:45:06 - Manufacturer html fetched
+2023-Oct-02 01:45:06 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:06 - Number of pages for be fetched for Astkatta: 1
+2023-Oct-02 01:45:06 - ----> Astkatta: Names fetched !
+2023-Oct-02 01:45:06 - ----> Astkatta: Prices fetched !
+2023-Oct-02 01:45:06 - ----> Astkatta: Link fetched !
+2023-Oct-02 01:45:06 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=483
+2023-Oct-02 01:45:06 - Manufacturer html fetched
+2023-Oct-02 01:45:06 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:06 - Number of pages for be fetched for ATTILA 阿提拉: 1
+2023-Oct-02 01:45:06 - ----> ATTILA 阿提拉: Names fetched !
+2023-Oct-02 01:45:06 - ----> ATTILA 阿提拉: Prices fetched !
+2023-Oct-02 01:45:06 - ----> ATTILA 阿提拉: Link fetched !
+2023-Oct-02 01:45:06 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=69
+2023-Oct-02 01:45:07 - Manufacturer html fetched
+2023-Oct-02 01:45:07 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:07 - Number of pages for be fetched for AUREO 日本: 1
+2023-Oct-02 01:45:07 - ----> AUREO 日本: Names fetched !
+2023-Oct-02 01:45:07 - ----> AUREO 日本: Prices fetched !
+2023-Oct-02 01:45:07 - ----> AUREO 日本: Link fetched !
+2023-Oct-02 01:45:07 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=207
+2023-Oct-02 01:45:07 - Manufacturer html fetched
+2023-Oct-02 01:45:07 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:07 - Number of pages for be fetched for AVP愛威堡: 1
+2023-Oct-02 01:45:07 - ----> AVP愛威堡: Names fetched !
+2023-Oct-02 01:45:07 - ----> AVP愛威堡: Prices fetched !
+2023-Oct-02 01:45:07 - ----> AVP愛威堡: Link fetched !
+2023-Oct-02 01:45:07 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=410
+2023-Oct-02 01:45:08 - Manufacturer html fetched
+2023-Oct-02 01:45:08 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:08 - Number of pages for be fetched for BaBa 豆腐砂: 1
+2023-Oct-02 01:45:08 - ----> BaBa 豆腐砂: Names fetched !
+2023-Oct-02 01:45:08 - ----> BaBa 豆腐砂: Prices fetched !
+2023-Oct-02 01:45:08 - ----> BaBa 豆腐砂: Link fetched !
+2023-Oct-02 01:45:08 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=495
+2023-Oct-02 01:45:08 - Manufacturer html fetched
+2023-Oct-02 01:45:08 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:08 - Number of pages for be fetched for Back2Nature: 1
+2023-Oct-02 01:45:08 - ----> Back2Nature: Names fetched !
+2023-Oct-02 01:45:08 - ----> Back2Nature: Prices fetched !
+2023-Oct-02 01:45:08 - ----> Back2Nature: Link fetched !
+2023-Oct-02 01:45:08 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=364
+2023-Oct-02 01:45:09 - Manufacturer html fetched
+2023-Oct-02 01:45:09 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:09 - Number of pages for be fetched for Bavaro: 0
+2023-Oct-02 01:45:09 - ----> Bavaro got no products....
+2023-Oct-02 01:45:09 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=148
+2023-Oct-02 01:45:09 - Manufacturer html fetched
+2023-Oct-02 01:45:09 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:09 - Number of pages for be fetched for Beacon Pet: 1
+2023-Oct-02 01:45:09 - ----> Beacon Pet: Names fetched !
+2023-Oct-02 01:45:09 - ----> Beacon Pet: Prices fetched !
+2023-Oct-02 01:45:09 - ----> Beacon Pet: Link fetched !
+2023-Oct-02 01:45:09 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=228
+2023-Oct-02 01:45:10 - Manufacturer html fetched
+2023-Oct-02 01:45:10 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:10 - Number of pages for be fetched for Beaphar: 1
+2023-Oct-02 01:45:10 - ----> Beaphar: Names fetched !
+2023-Oct-02 01:45:10 - ----> Beaphar: Prices fetched !
+2023-Oct-02 01:45:10 - ----> Beaphar: Link fetched !
+2023-Oct-02 01:45:10 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=119
+2023-Oct-02 01:45:10 - Manufacturer html fetched
+2023-Oct-02 01:45:10 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:10 - Number of pages for be fetched for Becobowl: 0
+2023-Oct-02 01:45:10 - ----> Becobowl got no products....
+2023-Oct-02 01:45:10 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=96
+2023-Oct-02 01:45:11 - Manufacturer html fetched
+2023-Oct-02 01:45:11 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:11 - Number of pages for be fetched for BFF: 1
+2023-Oct-02 01:45:11 - ----> BFF: Names fetched !
+2023-Oct-02 01:45:11 - ----> BFF: Prices fetched !
+2023-Oct-02 01:45:11 - ----> BFF: Link fetched !
+2023-Oct-02 01:45:11 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=227
+2023-Oct-02 01:45:11 - Manufacturer html fetched
+2023-Oct-02 01:45:11 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:11 - Number of pages for be fetched for Big Dog: 1
+2023-Oct-02 01:45:11 - ----> Big Dog: Names fetched !
+2023-Oct-02 01:45:11 - ----> Big Dog: Prices fetched !
+2023-Oct-02 01:45:11 - ----> Big Dog: Link fetched !
+2023-Oct-02 01:45:11 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=330
+2023-Oct-02 01:45:12 - Manufacturer html fetched
+2023-Oct-02 01:45:12 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:12 - Number of pages for be fetched for Bioion: 1
+2023-Oct-02 01:45:12 - ----> Bioion: Names fetched !
+2023-Oct-02 01:45:12 - ----> Bioion: Prices fetched !
+2023-Oct-02 01:45:12 - ----> Bioion: Link fetched !
+2023-Oct-02 01:45:12 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=414
+2023-Oct-02 01:45:13 - Manufacturer html fetched
+2023-Oct-02 01:45:13 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:13 - Number of pages for be fetched for BioRescue古樹寧: 1
+2023-Oct-02 01:45:13 - ----> BioRescue古樹寧: Names fetched !
+2023-Oct-02 01:45:13 - ----> BioRescue古樹寧: Prices fetched !
+2023-Oct-02 01:45:13 - ----> BioRescue古樹寧: Link fetched !
+2023-Oct-02 01:45:13 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=332
+2023-Oct-02 01:45:13 - Manufacturer html fetched
+2023-Oct-02 01:45:13 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:13 - Number of pages for be fetched for Bixbi: 1
+2023-Oct-02 01:45:13 - ----> Bixbi: Names fetched !
+2023-Oct-02 01:45:13 - ----> Bixbi: Prices fetched !
+2023-Oct-02 01:45:13 - ----> Bixbi: Link fetched !
+2023-Oct-02 01:45:13 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=541
+2023-Oct-02 01:45:14 - Manufacturer html fetched
+2023-Oct-02 01:45:14 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:14 - Number of pages for be fetched for Boat to Bowl 美國: 1
+2023-Oct-02 01:45:14 - ----> Boat to Bowl 美國: Names fetched !
+2023-Oct-02 01:45:14 - ----> Boat to Bowl 美國: Prices fetched !
+2023-Oct-02 01:45:14 - ----> Boat to Bowl 美國: Link fetched !
+2023-Oct-02 01:45:14 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=392
+2023-Oct-02 01:45:14 - Manufacturer html fetched
+2023-Oct-02 01:45:14 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:14 - Number of pages for be fetched for Bodygem: 1
+2023-Oct-02 01:45:14 - ----> Bodygem: Names fetched !
+2023-Oct-02 01:45:14 - ----> Bodygem: Prices fetched !
+2023-Oct-02 01:45:14 - ----> Bodygem: Link fetched !
+2023-Oct-02 01:45:14 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=89
+2023-Oct-02 01:45:15 - Manufacturer html fetched
+2023-Oct-02 01:45:15 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:15 - Number of pages for be fetched for Boreal: 1
+2023-Oct-02 01:45:15 - ----> Boreal: Names fetched !
+2023-Oct-02 01:45:15 - ----> Boreal: Prices fetched !
+2023-Oct-02 01:45:15 - ----> Boreal: Link fetched !
+2023-Oct-02 01:45:15 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=107
+2023-Oct-02 01:45:15 - Manufacturer html fetched
+2023-Oct-02 01:45:15 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:15 - Number of pages for be fetched for Brabanconne 爸媽寵: 1
+2023-Oct-02 01:45:15 - ----> Brabanconne 爸媽寵: Names fetched !
+2023-Oct-02 01:45:15 - ----> Brabanconne 爸媽寵: Prices fetched !
+2023-Oct-02 01:45:15 - ----> Brabanconne 爸媽寵: Link fetched !
+2023-Oct-02 01:45:15 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=430
+2023-Oct-02 01:45:16 - Manufacturer html fetched
+2023-Oct-02 01:45:16 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:16 - Number of pages for be fetched for Breeder Celect: 1
+2023-Oct-02 01:45:16 - ----> Breeder Celect: Names fetched !
+2023-Oct-02 01:45:16 - ----> Breeder Celect: Prices fetched !
+2023-Oct-02 01:45:16 - ----> Breeder Celect: Link fetched !
+2023-Oct-02 01:45:16 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=321
+2023-Oct-02 01:45:16 - Manufacturer html fetched
+2023-Oct-02 01:45:16 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:16 - Number of pages for be fetched for Budle Budle: 1
+2023-Oct-02 01:45:16 - ----> Budle Budle: Names fetched !
+2023-Oct-02 01:45:16 - ----> Budle Budle: Prices fetched !
+2023-Oct-02 01:45:16 - ----> Budle Budle: Link fetched !
+2023-Oct-02 01:45:16 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=537
+2023-Oct-02 01:45:17 - Manufacturer html fetched
+2023-Oct-02 01:45:17 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:17 - Number of pages for be fetched for Bungener 博根拿: 1
+2023-Oct-02 01:45:17 - ----> Bungener 博根拿: Names fetched !
+2023-Oct-02 01:45:17 - ----> Bungener 博根拿: Prices fetched !
+2023-Oct-02 01:45:17 - ----> Bungener 博根拿: Link fetched !
+2023-Oct-02 01:45:17 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=64
+2023-Oct-02 01:45:17 - Manufacturer html fetched
+2023-Oct-02 01:45:17 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:17 - Number of pages for be fetched for Canagan: 1
+2023-Oct-02 01:45:17 - ----> Canagan: Names fetched !
+2023-Oct-02 01:45:17 - ----> Canagan: Prices fetched !
+2023-Oct-02 01:45:17 - ----> Canagan: Link fetched !
+2023-Oct-02 01:45:17 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=75
+2023-Oct-02 01:45:18 - Manufacturer html fetched
+2023-Oct-02 01:45:18 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:18 - Number of pages for be fetched for Canidae: 1
+2023-Oct-02 01:45:18 - ----> Canidae: Names fetched !
+2023-Oct-02 01:45:18 - ----> Canidae: Prices fetched !
+2023-Oct-02 01:45:18 - ----> Canidae: Link fetched !
+2023-Oct-02 01:45:18 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=501
+2023-Oct-02 01:45:18 - Manufacturer html fetched
+2023-Oct-02 01:45:18 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:18 - Number of pages for be fetched for Canoe Cat: 1
+2023-Oct-02 01:45:18 - ----> Canoe Cat: Names fetched !
+2023-Oct-02 01:45:18 - ----> Canoe Cat: Prices fetched !
+2023-Oct-02 01:45:18 - ----> Canoe Cat: Link fetched !
+2023-Oct-02 01:45:18 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=259
+2023-Oct-02 01:45:19 - Manufacturer html fetched
+2023-Oct-02 01:45:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:19 - Number of pages for be fetched for Carat: 1
+2023-Oct-02 01:45:19 - ----> Carat: Names fetched !
+2023-Oct-02 01:45:19 - ----> Carat: Prices fetched !
+2023-Oct-02 01:45:19 - ----> Carat: Link fetched !
+2023-Oct-02 01:45:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=381
+2023-Oct-02 01:45:19 - Manufacturer html fetched
+2023-Oct-02 01:45:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:19 - Number of pages for be fetched for Carexpro 格倫仕寶: 0
+2023-Oct-02 01:45:19 - ----> Carexpro 格倫仕寶 got no products....
+2023-Oct-02 01:45:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=480
+2023-Oct-02 01:45:20 - Manufacturer html fetched
+2023-Oct-02 01:45:20 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:20 - Number of pages for be fetched for Carna4: 1
+2023-Oct-02 01:45:20 - ----> Carna4: Names fetched !
+2023-Oct-02 01:45:20 - ----> Carna4: Prices fetched !
+2023-Oct-02 01:45:20 - ----> Carna4: Link fetched !
+2023-Oct-02 01:45:20 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=72
+2023-Oct-02 01:45:20 - Manufacturer html fetched
+2023-Oct-02 01:45:20 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:20 - Number of pages for be fetched for Casa Fera: 1
+2023-Oct-02 01:45:20 - ----> Casa Fera: Names fetched !
+2023-Oct-02 01:45:20 - ----> Casa Fera: Prices fetched !
+2023-Oct-02 01:45:20 - ----> Casa Fera: Link fetched !
+2023-Oct-02 01:45:20 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=260
+2023-Oct-02 01:45:21 - Manufacturer html fetched
+2023-Oct-02 01:45:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:21 - Number of pages for be fetched for Cat Dancer: 1
+2023-Oct-02 01:45:21 - ----> Cat Dancer: Names fetched !
+2023-Oct-02 01:45:21 - ----> Cat Dancer: Prices fetched !
+2023-Oct-02 01:45:21 - ----> Cat Dancer: Link fetched !
+2023-Oct-02 01:45:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=164
+2023-Oct-02 01:45:21 - Manufacturer html fetched
+2023-Oct-02 01:45:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:21 - Number of pages for be fetched for Cat Lover 貓之戀: 0
+2023-Oct-02 01:45:21 - ----> Cat Lover 貓之戀 got no products....
+2023-Oct-02 01:45:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=150
+2023-Oct-02 01:45:22 - Manufacturer html fetched
+2023-Oct-02 01:45:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:22 - Number of pages for be fetched for Cat Manager 喵社長: 0
+2023-Oct-02 01:45:22 - ----> Cat Manager 喵社長 got no products....
+2023-Oct-02 01:45:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=173
+2023-Oct-02 01:45:22 - Manufacturer html fetched
+2023-Oct-02 01:45:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:22 - Number of pages for be fetched for Cat's Best: 1
+2023-Oct-02 01:45:22 - ----> Cat's Best: Names fetched !
+2023-Oct-02 01:45:22 - ----> Cat's Best: Prices fetched !
+2023-Oct-02 01:45:22 - ----> Cat's Best: Link fetched !
+2023-Oct-02 01:45:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=73
+2023-Oct-02 01:45:23 - Manufacturer html fetched
+2023-Oct-02 01:45:23 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:23 - Number of pages for be fetched for Cat-Man-Doo: 1
+2023-Oct-02 01:45:23 - ----> Cat-Man-Doo: Names fetched !
+2023-Oct-02 01:45:23 - ----> Cat-Man-Doo: Prices fetched !
+2023-Oct-02 01:45:23 - ----> Cat-Man-Doo: Link fetched !
+2023-Oct-02 01:45:23 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=382
+2023-Oct-02 01:45:23 - Manufacturer html fetched
+2023-Oct-02 01:45:23 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:23 - Number of pages for be fetched for Catiss: 1
+2023-Oct-02 01:45:23 - ----> Catiss: Names fetched !
+2023-Oct-02 01:45:23 - ----> Catiss: Prices fetched !
+2023-Oct-02 01:45:23 - ----> Catiss: Link fetched !
+2023-Oct-02 01:45:23 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=426
+2023-Oct-02 01:45:23 - Manufacturer html fetched
+2023-Oct-02 01:45:23 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:23 - Number of pages for be fetched for Catit: 1
+2023-Oct-02 01:45:23 - ----> Catit: Names fetched !
+2023-Oct-02 01:45:24 - ----> Catit: Prices fetched !
+2023-Oct-02 01:45:24 - ----> Catit: Link fetched !
+2023-Oct-02 01:45:24 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=456
+2023-Oct-02 01:45:24 - Manufacturer html fetched
+2023-Oct-02 01:45:24 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:24 - Number of pages for be fetched for CattyMan 日本寵物玩具品牌: 1
+2023-Oct-02 01:45:24 - ----> CattyMan 日本寵物玩具品牌: Names fetched !
+2023-Oct-02 01:45:24 - ----> CattyMan 日本寵物玩具品牌: Prices fetched !
+2023-Oct-02 01:45:24 - ----> CattyMan 日本寵物玩具品牌: Link fetched !
+2023-Oct-02 01:45:24 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=468
+2023-Oct-02 01:45:25 - Manufacturer html fetched
+2023-Oct-02 01:45:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:25 - Number of pages for be fetched for CATWALK: 1
+2023-Oct-02 01:45:25 - ----> CATWALK: Names fetched !
+2023-Oct-02 01:45:25 - ----> CATWALK: Prices fetched !
+2023-Oct-02 01:45:25 - ----> CATWALK: Link fetched !
+2023-Oct-02 01:45:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=467
+2023-Oct-02 01:45:25 - Manufacturer html fetched
+2023-Oct-02 01:45:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:25 - Number of pages for be fetched for CATWATER: 1
+2023-Oct-02 01:45:25 - ----> CATWATER: Names fetched !
+2023-Oct-02 01:45:25 - ----> CATWATER: Prices fetched !
+2023-Oct-02 01:45:25 - ----> CATWATER: Link fetched !
+2023-Oct-02 01:45:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=417
+2023-Oct-02 01:45:26 - Manufacturer html fetched
+2023-Oct-02 01:45:26 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:26 - Number of pages for be fetched for Cb Botanica: 0
+2023-Oct-02 01:45:26 - ----> Cb Botanica got no products....
+2023-Oct-02 01:45:26 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=437
+2023-Oct-02 01:45:26 - Manufacturer html fetched
+2023-Oct-02 01:45:26 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:26 - Number of pages for be fetched for Celtic Connection: 1
+2023-Oct-02 01:45:26 - ----> Celtic Connection: Names fetched !
+2023-Oct-02 01:45:26 - ----> Celtic Connection: Prices fetched !
+2023-Oct-02 01:45:26 - ----> Celtic Connection: Link fetched !
+2023-Oct-02 01:45:26 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=99
+2023-Oct-02 01:45:27 - Manufacturer html fetched
+2023-Oct-02 01:45:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:27 - Number of pages for be fetched for CIAO: 1
+2023-Oct-02 01:45:27 - ----> CIAO: Names fetched !
+2023-Oct-02 01:45:27 - ----> CIAO: Prices fetched !
+2023-Oct-02 01:45:27 - ----> CIAO: Link fetched !
+2023-Oct-02 01:45:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=346
+2023-Oct-02 01:45:27 - Manufacturer html fetched
+2023-Oct-02 01:45:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:27 - Number of pages for be fetched for Cindy's Recipe: 1
+2023-Oct-02 01:45:27 - ----> Cindy's Recipe: Names fetched !
+2023-Oct-02 01:45:27 - ----> Cindy's Recipe: Prices fetched !
+2023-Oct-02 01:45:27 - ----> Cindy's Recipe: Link fetched !
+2023-Oct-02 01:45:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=450
+2023-Oct-02 01:45:28 - Manufacturer html fetched
+2023-Oct-02 01:45:28 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:28 - Number of pages for be fetched for Claude ＆ Clarence: 1
+2023-Oct-02 01:45:28 - ----> Claude ＆ Clarence: Names fetched !
+2023-Oct-02 01:45:28 - ----> Claude ＆ Clarence: Prices fetched !
+2023-Oct-02 01:45:28 - ----> Claude ＆ Clarence: Link fetched !
+2023-Oct-02 01:45:28 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=162
+2023-Oct-02 01:45:28 - Manufacturer html fetched
+2023-Oct-02 01:45:28 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:28 - Number of pages for be fetched for Clean Mew: 0
+2023-Oct-02 01:45:28 - ----> Clean Mew got no products....
+2023-Oct-02 01:45:28 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=147
+2023-Oct-02 01:45:29 - Manufacturer html fetched
+2023-Oct-02 01:45:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:29 - Number of pages for be fetched for Comet: 1
+2023-Oct-02 01:45:29 - ----> Comet: Names fetched !
+2023-Oct-02 01:45:29 - ----> Comet: Prices fetched !
+2023-Oct-02 01:45:29 - ----> Comet: Link fetched !
+2023-Oct-02 01:45:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=479
+2023-Oct-02 01:45:29 - Manufacturer html fetched
+2023-Oct-02 01:45:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:29 - Number of pages for be fetched for Corey 加拿大: 1
+2023-Oct-02 01:45:29 - ----> Corey 加拿大: Names fetched !
+2023-Oct-02 01:45:29 - ----> Corey 加拿大: Prices fetched !
+2023-Oct-02 01:45:29 - ----> Corey 加拿大: Link fetched !
+2023-Oct-02 01:45:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=526
+2023-Oct-02 01:45:30 - Manufacturer html fetched
+2023-Oct-02 01:45:30 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:30 - Number of pages for be fetched for Coritz 韓國: 1
+2023-Oct-02 01:45:30 - ----> Coritz 韓國: Names fetched !
+2023-Oct-02 01:45:30 - ----> Coritz 韓國: Prices fetched !
+2023-Oct-02 01:45:30 - ----> Coritz 韓國: Link fetched !
+2023-Oct-02 01:45:30 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=240
+2023-Oct-02 01:45:30 - Manufacturer html fetched
+2023-Oct-02 01:45:30 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:30 - Number of pages for be fetched for Cosset愛寵健: 1
+2023-Oct-02 01:45:31 - ----> Cosset愛寵健: Names fetched !
+2023-Oct-02 01:45:31 - ----> Cosset愛寵健: Prices fetched !
+2023-Oct-02 01:45:31 - ----> Cosset愛寵健: Link fetched !
+2023-Oct-02 01:45:31 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=133
+2023-Oct-02 01:45:31 - Manufacturer html fetched
+2023-Oct-02 01:45:31 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:31 - Number of pages for be fetched for Cream Bro 忌廉哥: 1
+2023-Oct-02 01:45:31 - ----> Cream Bro 忌廉哥: Names fetched !
+2023-Oct-02 01:45:31 - ----> Cream Bro 忌廉哥: Prices fetched !
+2023-Oct-02 01:45:31 - ----> Cream Bro 忌廉哥: Link fetched !
+2023-Oct-02 01:45:31 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=61
+2023-Oct-02 01:45:32 - Manufacturer html fetched
+2023-Oct-02 01:45:32 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:32 - Number of pages for be fetched for Daily Delight: 1
+2023-Oct-02 01:45:32 - ----> Daily Delight: Names fetched !
+2023-Oct-02 01:45:32 - ----> Daily Delight: Prices fetched !
+2023-Oct-02 01:45:32 - ----> Daily Delight: Link fetched !
+2023-Oct-02 01:45:32 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=336
+2023-Oct-02 01:45:32 - Manufacturer html fetched
+2023-Oct-02 01:45:32 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:32 - Number of pages for be fetched for Dear deer: 1
+2023-Oct-02 01:45:32 - ----> Dear deer: Names fetched !
+2023-Oct-02 01:45:32 - ----> Dear deer: Prices fetched !
+2023-Oct-02 01:45:32 - ----> Dear deer: Link fetched !
+2023-Oct-02 01:45:32 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=122
+2023-Oct-02 01:45:33 - Manufacturer html fetched
+2023-Oct-02 01:45:33 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:33 - Number of pages for be fetched for Dermodacyn: 1
+2023-Oct-02 01:45:33 - ----> Dermodacyn: Names fetched !
+2023-Oct-02 01:45:33 - ----> Dermodacyn: Prices fetched !
+2023-Oct-02 01:45:33 - ----> Dermodacyn: Link fetched !
+2023-Oct-02 01:45:33 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=490
+2023-Oct-02 01:45:33 - Manufacturer html fetched
+2023-Oct-02 01:45:33 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:33 - Number of pages for be fetched for DIOCENT 韓國: 1
+2023-Oct-02 01:45:33 - ----> DIOCENT 韓國: Names fetched !
+2023-Oct-02 01:45:33 - ----> DIOCENT 韓國: Prices fetched !
+2023-Oct-02 01:45:33 - ----> DIOCENT 韓國: Link fetched !
+2023-Oct-02 01:45:33 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=390
+2023-Oct-02 01:45:34 - Manufacturer html fetched
+2023-Oct-02 01:45:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:34 - Number of pages for be fetched for DoggyRade: 0
+2023-Oct-02 01:45:34 - ----> DoggyRade got no products....
+2023-Oct-02 01:45:34 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=341
+2023-Oct-02 01:45:34 - Manufacturer html fetched
+2023-Oct-02 01:45:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:34 - Number of pages for be fetched for Dolina Noteci: 1
+2023-Oct-02 01:45:34 - ----> Dolina Noteci: Names fetched !
+2023-Oct-02 01:45:34 - ----> Dolina Noteci: Prices fetched !
+2023-Oct-02 01:45:34 - ----> Dolina Noteci: Link fetched !
+2023-Oct-02 01:45:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=241
+2023-Oct-02 01:45:35 - Manufacturer html fetched
+2023-Oct-02 01:45:35 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:35 - Number of pages for be fetched for Dr. Pet: 1
+2023-Oct-02 01:45:35 - ----> Dr. Pet: Names fetched !
+2023-Oct-02 01:45:35 - ----> Dr. Pet: Prices fetched !
+2023-Oct-02 01:45:35 - ----> Dr. Pet: Link fetched !
+2023-Oct-02 01:45:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=284
+2023-Oct-02 01:45:35 - Manufacturer html fetched
+2023-Oct-02 01:45:36 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:36 - Number of pages for be fetched for Dr. Tim's: 1
+2023-Oct-02 01:45:36 - ----> Dr. Tim's: Names fetched !
+2023-Oct-02 01:45:36 - ----> Dr. Tim's: Prices fetched !
+2023-Oct-02 01:45:36 - ----> Dr. Tim's: Link fetched !
+2023-Oct-02 01:45:36 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=515
+2023-Oct-02 01:45:36 - Manufacturer html fetched
+2023-Oct-02 01:45:36 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:36 - Number of pages for be fetched for Dr.Clauder's 德國: 1
+2023-Oct-02 01:45:36 - ----> Dr.Clauder's 德國: Names fetched !
+2023-Oct-02 01:45:36 - ----> Dr.Clauder's 德國: Prices fetched !
+2023-Oct-02 01:45:36 - ----> Dr.Clauder's 德國: Link fetched !
+2023-Oct-02 01:45:36 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=249
+2023-Oct-02 01:45:37 - Manufacturer html fetched
+2023-Oct-02 01:45:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:37 - Number of pages for be fetched for Dr.Elsey's: 1
+2023-Oct-02 01:45:37 - ----> Dr.Elsey's: Names fetched !
+2023-Oct-02 01:45:37 - ----> Dr.Elsey's: Prices fetched !
+2023-Oct-02 01:45:37 - ----> Dr.Elsey's: Link fetched !
+2023-Oct-02 01:45:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=459
+2023-Oct-02 01:45:37 - Manufacturer html fetched
+2023-Oct-02 01:45:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:37 - Number of pages for be fetched for Dr.Klēn潔博士: 1
+2023-Oct-02 01:45:37 - ----> Dr.Klēn潔博士: Names fetched !
+2023-Oct-02 01:45:37 - ----> Dr.Klēn潔博士: Prices fetched !
+2023-Oct-02 01:45:37 - ----> Dr.Klēn潔博士: Link fetched !
+2023-Oct-02 01:45:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=532
+2023-Oct-02 01:45:38 - Manufacturer html fetched
+2023-Oct-02 01:45:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:38 - Number of pages for be fetched for Ecuphar 科盾: 1
+2023-Oct-02 01:45:38 - ----> Ecuphar 科盾: Names fetched !
+2023-Oct-02 01:45:38 - ----> Ecuphar 科盾: Prices fetched !
+2023-Oct-02 01:45:38 - ----> Ecuphar 科盾: Link fetched !
+2023-Oct-02 01:45:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=397
+2023-Oct-02 01:45:38 - Manufacturer html fetched
+2023-Oct-02 01:45:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:38 - Number of pages for be fetched for Ensure Guard 安素膜: 0
+2023-Oct-02 01:45:38 - ----> Ensure Guard 安素膜 got no products....
+2023-Oct-02 01:45:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=266
+2023-Oct-02 01:45:38 - Manufacturer html fetched
+2023-Oct-02 01:45:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:38 - Number of pages for be fetched for EQyss: 1
+2023-Oct-02 01:45:38 - ----> EQyss: Names fetched !
+2023-Oct-02 01:45:38 - ----> EQyss: Prices fetched !
+2023-Oct-02 01:45:38 - ----> EQyss: Link fetched !
+2023-Oct-02 01:45:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=322
+2023-Oct-02 01:45:39 - Manufacturer html fetched
+2023-Oct-02 01:45:39 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:39 - Number of pages for be fetched for Essence 非凡: 1
+2023-Oct-02 01:45:39 - ----> Essence 非凡: Names fetched !
+2023-Oct-02 01:45:39 - ----> Essence 非凡: Prices fetched !
+2023-Oct-02 01:45:39 - ----> Essence 非凡: Link fetched !
+2023-Oct-02 01:45:39 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=407
+2023-Oct-02 01:45:39 - Manufacturer html fetched
+2023-Oct-02 01:45:39 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:39 - Number of pages for be fetched for Essential Foods 易膳: 1
+2023-Oct-02 01:45:39 - ----> Essential Foods 易膳: Names fetched !
+2023-Oct-02 01:45:39 - ----> Essential Foods 易膳: Prices fetched !
+2023-Oct-02 01:45:39 - ----> Essential Foods 易膳: Link fetched !
+2023-Oct-02 01:45:39 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=74
+2023-Oct-02 01:45:40 - Manufacturer html fetched
+2023-Oct-02 01:45:40 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:40 - Number of pages for be fetched for Ever Clean: 1
+2023-Oct-02 01:45:40 - ----> Ever Clean: Names fetched !
+2023-Oct-02 01:45:40 - ----> Ever Clean: Prices fetched !
+2023-Oct-02 01:45:40 - ----> Ever Clean: Link fetched !
+2023-Oct-02 01:45:40 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=204
+2023-Oct-02 01:45:41 - Manufacturer html fetched
+2023-Oct-02 01:45:41 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:41 - Number of pages for be fetched for Ever Dream: 0
+2023-Oct-02 01:45:41 - ----> Ever Dream got no products....
+2023-Oct-02 01:45:41 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=373
+2023-Oct-02 01:45:41 - Manufacturer html fetched
+2023-Oct-02 01:45:41 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:41 - Number of pages for be fetched for F10: 0
+2023-Oct-02 01:45:41 - ----> F10 got no products....
+2023-Oct-02 01:45:41 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=401
+2023-Oct-02 01:45:42 - Manufacturer html fetched
+2023-Oct-02 01:45:42 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:42 - Number of pages for be fetched for Famvet: 1
+2023-Oct-02 01:45:42 - ----> Famvet: Names fetched !
+2023-Oct-02 01:45:42 - ----> Famvet: Prices fetched !
+2023-Oct-02 01:45:42 - ----> Famvet: Link fetched !
+2023-Oct-02 01:45:42 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=429
+2023-Oct-02 01:45:42 - Manufacturer html fetched
+2023-Oct-02 01:45:42 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:42 - Number of pages for be fetched for Farm Company 意大利: 1
+2023-Oct-02 01:45:42 - ----> Farm Company 意大利: Names fetched !
+2023-Oct-02 01:45:42 - ----> Farm Company 意大利: Prices fetched !
+2023-Oct-02 01:45:42 - ----> Farm Company 意大利: Link fetched !
+2023-Oct-02 01:45:42 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=452
+2023-Oct-02 01:45:43 - Manufacturer html fetched
+2023-Oct-02 01:45:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:43 - Number of pages for be fetched for Felina Canino VIF: 1
+2023-Oct-02 01:45:43 - ----> Felina Canino VIF: Names fetched !
+2023-Oct-02 01:45:43 - ----> Felina Canino VIF: Prices fetched !
+2023-Oct-02 01:45:43 - ----> Felina Canino VIF: Link fetched !
+2023-Oct-02 01:45:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=474
+2023-Oct-02 01:45:43 - Manufacturer html fetched
+2023-Oct-02 01:45:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:43 - Number of pages for be fetched for Ferplast 意大利: 1
+2023-Oct-02 01:45:43 - ----> Ferplast 意大利: Names fetched !
+2023-Oct-02 01:45:43 - ----> Ferplast 意大利: Prices fetched !
+2023-Oct-02 01:45:43 - ----> Ferplast 意大利: Link fetched !
+2023-Oct-02 01:45:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=77
+2023-Oct-02 01:45:43 - Manufacturer html fetched
+2023-Oct-02 01:45:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:43 - Number of pages for be fetched for Fish4Cats: 1
+2023-Oct-02 01:45:43 - ----> Fish4Cats: Names fetched !
+2023-Oct-02 01:45:43 - ----> Fish4Cats: Prices fetched !
+2023-Oct-02 01:45:43 - ----> Fish4Cats: Link fetched !
+2023-Oct-02 01:45:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=337
+2023-Oct-02 01:45:44 - Manufacturer html fetched
+2023-Oct-02 01:45:44 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:44 - Number of pages for be fetched for Fish4dogs: 0
+2023-Oct-02 01:45:44 - ----> Fish4dogs got no products....
+2023-Oct-02 01:45:44 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=423
+2023-Oct-02 01:45:44 - Manufacturer html fetched
+2023-Oct-02 01:45:44 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:44 - Number of pages for be fetched for Flexicose: 1
+2023-Oct-02 01:45:44 - ----> Flexicose: Names fetched !
+2023-Oct-02 01:45:44 - ----> Flexicose: Prices fetched !
+2023-Oct-02 01:45:44 - ----> Flexicose: Link fetched !
+2023-Oct-02 01:45:44 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=384
+2023-Oct-02 01:45:45 - Manufacturer html fetched
+2023-Oct-02 01:45:45 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:45 - Number of pages for be fetched for Fluffy Hand: 1
+2023-Oct-02 01:45:45 - ----> Fluffy Hand: Names fetched !
+2023-Oct-02 01:45:45 - ----> Fluffy Hand: Prices fetched !
+2023-Oct-02 01:45:45 - ----> Fluffy Hand: Link fetched !
+2023-Oct-02 01:45:45 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=550
+2023-Oct-02 01:45:45 - Manufacturer html fetched
+2023-Oct-02 01:45:45 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:45 - Number of pages for be fetched for Forza10 冰島: 1
+2023-Oct-02 01:45:45 - ----> Forza10 冰島: Names fetched !
+2023-Oct-02 01:45:45 - ----> Forza10 冰島: Prices fetched !
+2023-Oct-02 01:45:45 - ----> Forza10 冰島: Link fetched !
+2023-Oct-02 01:45:45 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=439
+2023-Oct-02 01:45:46 - Manufacturer html fetched
+2023-Oct-02 01:45:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:46 - Number of pages for be fetched for Four Paws: 1
+2023-Oct-02 01:45:46 - ----> Four Paws: Names fetched !
+2023-Oct-02 01:45:46 - ----> Four Paws: Prices fetched !
+2023-Oct-02 01:45:46 - ----> Four Paws: Link fetched !
+2023-Oct-02 01:45:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=380
+2023-Oct-02 01:45:46 - Manufacturer html fetched
+2023-Oct-02 01:45:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:46 - Number of pages for be fetched for Fourflax: 1
+2023-Oct-02 01:45:46 - ----> Fourflax: Names fetched !
+2023-Oct-02 01:45:46 - ----> Fourflax: Prices fetched !
+2023-Oct-02 01:45:46 - ----> Fourflax: Link fetched !
+2023-Oct-02 01:45:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=251
+2023-Oct-02 01:45:47 - Manufacturer html fetched
+2023-Oct-02 01:45:47 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:47 - Number of pages for be fetched for Fromm 福摩 貓糧: 1
+2023-Oct-02 01:45:47 - ----> Fromm 福摩 貓糧: Names fetched !
+2023-Oct-02 01:45:47 - ----> Fromm 福摩 貓糧: Prices fetched !
+2023-Oct-02 01:45:47 - ----> Fromm 福摩 貓糧: Link fetched !
+2023-Oct-02 01:45:47 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=121
+2023-Oct-02 01:45:48 - Manufacturer html fetched
+2023-Oct-02 01:45:48 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:48 - Number of pages for be fetched for FromTheField: 1
+2023-Oct-02 01:45:48 - ----> FromTheField: Names fetched !
+2023-Oct-02 01:45:48 - ----> FromTheField: Prices fetched !
+2023-Oct-02 01:45:48 - ----> FromTheField: Link fetched !
+2023-Oct-02 01:45:48 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=234
+2023-Oct-02 01:45:48 - Manufacturer html fetched
+2023-Oct-02 01:45:48 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:48 - Number of pages for be fetched for FrontLine蚤不到: 1
+2023-Oct-02 01:45:48 - ----> FrontLine蚤不到: Names fetched !
+2023-Oct-02 01:45:48 - ----> FrontLine蚤不到: Prices fetched !
+2023-Oct-02 01:45:48 - ----> FrontLine蚤不到: Link fetched !
+2023-Oct-02 01:45:48 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=111
+2023-Oct-02 01:45:49 - Manufacturer html fetched
+2023-Oct-02 01:45:49 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:49 - Number of pages for be fetched for Furrie Sand Fresh: 1
+2023-Oct-02 01:45:49 - ----> Furrie Sand Fresh: Names fetched !
+2023-Oct-02 01:45:49 - ----> Furrie Sand Fresh: Prices fetched !
+2023-Oct-02 01:45:49 - ----> Furrie Sand Fresh: Link fetched !
+2023-Oct-02 01:45:49 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=76
+2023-Oct-02 01:45:49 - Manufacturer html fetched
+2023-Oct-02 01:45:49 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:49 - Number of pages for be fetched for Fussie Cat 美國: 1
+2023-Oct-02 01:45:49 - ----> Fussie Cat 美國: Names fetched !
+2023-Oct-02 01:45:49 - ----> Fussie Cat 美國: Prices fetched !
+2023-Oct-02 01:45:49 - ----> Fussie Cat 美國: Link fetched !
+2023-Oct-02 01:45:49 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=488
+2023-Oct-02 01:45:50 - Manufacturer html fetched
+2023-Oct-02 01:45:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:50 - Number of pages for be fetched for Fussy Cat 澳洲: 1
+2023-Oct-02 01:45:50 - ----> Fussy Cat 澳洲: Names fetched !
+2023-Oct-02 01:45:50 - ----> Fussy Cat 澳洲: Prices fetched !
+2023-Oct-02 01:45:50 - ----> Fussy Cat 澳洲: Link fetched !
+2023-Oct-02 01:45:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=94
+2023-Oct-02 01:45:50 - Manufacturer html fetched
+2023-Oct-02 01:45:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:50 - Number of pages for be fetched for Garfield 加菲貓砂: 0
+2023-Oct-02 01:45:50 - ----> Garfield 加菲貓砂 got no products....
+2023-Oct-02 01:45:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=394
+2023-Oct-02 01:45:51 - Manufacturer html fetched
+2023-Oct-02 01:45:51 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:51 - Number of pages for be fetched for GEX: 1
+2023-Oct-02 01:45:51 - ----> GEX: Names fetched !
+2023-Oct-02 01:45:51 - ----> GEX: Prices fetched !
+2023-Oct-02 01:45:51 - ----> GEX: Link fetched !
+2023-Oct-02 01:45:51 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=212
+2023-Oct-02 01:45:51 - Manufacturer html fetched
+2023-Oct-02 01:45:51 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:51 - Number of pages for be fetched for Gigwi 貓玩具: 1
+2023-Oct-02 01:45:51 - ----> Gigwi 貓玩具: Names fetched !
+2023-Oct-02 01:45:51 - ----> Gigwi 貓玩具: Prices fetched !
+2023-Oct-02 01:45:51 - ----> Gigwi 貓玩具: Link fetched !
+2023-Oct-02 01:45:52 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=93
+2023-Oct-02 01:45:52 - Manufacturer html fetched
+2023-Oct-02 01:45:52 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:52 - Number of pages for be fetched for GimCat: 1
+2023-Oct-02 01:45:52 - ----> GimCat: Names fetched !
+2023-Oct-02 01:45:52 - ----> GimCat: Prices fetched !
+2023-Oct-02 01:45:52 - ----> GimCat: Link fetched !
+2023-Oct-02 01:45:52 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=294
+2023-Oct-02 01:45:53 - Manufacturer html fetched
+2023-Oct-02 01:45:53 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:53 - Number of pages for be fetched for Go! Solutions: 1
+2023-Oct-02 01:45:53 - ----> Go! Solutions: Names fetched !
+2023-Oct-02 01:45:53 - ----> Go! Solutions: Prices fetched !
+2023-Oct-02 01:45:53 - ----> Go! Solutions: Link fetched !
+2023-Oct-02 01:45:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=226
+2023-Oct-02 01:45:53 - Manufacturer html fetched
+2023-Oct-02 01:45:53 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:53 - Number of pages for be fetched for Gosbi: 1
+2023-Oct-02 01:45:53 - ----> Gosbi: Names fetched !
+2023-Oct-02 01:45:53 - ----> Gosbi: Prices fetched !
+2023-Oct-02 01:45:53 - ----> Gosbi: Link fetched !
+2023-Oct-02 01:45:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=418
+2023-Oct-02 01:45:54 - Manufacturer html fetched
+2023-Oct-02 01:45:54 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:54 - Number of pages for be fetched for Grandee: 1
+2023-Oct-02 01:45:54 - ----> Grandee: Names fetched !
+2023-Oct-02 01:45:54 - ----> Grandee: Prices fetched !
+2023-Oct-02 01:45:54 - ----> Grandee: Link fetched !
+2023-Oct-02 01:45:54 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=113
+2023-Oct-02 01:45:54 - Manufacturer html fetched
+2023-Oct-02 01:45:54 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:54 - Number of pages for be fetched for Grandma Mae’s Country Naturals: 1
+2023-Oct-02 01:45:54 - ----> Grandma Mae’s Country Naturals: Names fetched !
+2023-Oct-02 01:45:54 - ----> Grandma Mae’s Country Naturals: Prices fetched !
+2023-Oct-02 01:45:54 - ----> Grandma Mae’s Country Naturals: Link fetched !
+2023-Oct-02 01:45:54 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=351
+2023-Oct-02 01:45:55 - Manufacturer html fetched
+2023-Oct-02 01:45:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:55 - Number of pages for be fetched for Great Jack's: 1
+2023-Oct-02 01:45:55 - ----> Great Jack's: Names fetched !
+2023-Oct-02 01:45:55 - ----> Great Jack's: Prices fetched !
+2023-Oct-02 01:45:55 - ----> Great Jack's: Link fetched !
+2023-Oct-02 01:45:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=348
+2023-Oct-02 01:45:55 - Manufacturer html fetched
+2023-Oct-02 01:45:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:55 - Number of pages for be fetched for GREEN PAWS 六斗: 1
+2023-Oct-02 01:45:55 - ----> GREEN PAWS 六斗: Names fetched !
+2023-Oct-02 01:45:55 - ----> GREEN PAWS 六斗: Prices fetched !
+2023-Oct-02 01:45:55 - ----> GREEN PAWS 六斗: Link fetched !
+2023-Oct-02 01:45:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=379
+2023-Oct-02 01:45:56 - Manufacturer html fetched
+2023-Oct-02 01:45:56 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:56 - Number of pages for be fetched for Green Petfood 蟲糧: 1
+2023-Oct-02 01:45:56 - ----> Green Petfood 蟲糧: Names fetched !
+2023-Oct-02 01:45:56 - ----> Green Petfood 蟲糧: Prices fetched !
+2023-Oct-02 01:45:56 - ----> Green Petfood 蟲糧: Link fetched !
+2023-Oct-02 01:45:56 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=271
+2023-Oct-02 01:45:56 - Manufacturer html fetched
+2023-Oct-02 01:45:56 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:56 - Number of pages for be fetched for GREENIES: 1
+2023-Oct-02 01:45:56 - ----> GREENIES: Names fetched !
+2023-Oct-02 01:45:56 - ----> GREENIES: Prices fetched !
+2023-Oct-02 01:45:56 - ----> GREENIES: Link fetched !
+2023-Oct-02 01:45:56 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=440
+2023-Oct-02 01:45:57 - Manufacturer html fetched
+2023-Oct-02 01:45:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:57 - Number of pages for be fetched for Hagen 希勤: 1
+2023-Oct-02 01:45:57 - ----> Hagen 希勤: Names fetched !
+2023-Oct-02 01:45:57 - ----> Hagen 希勤: Prices fetched !
+2023-Oct-02 01:45:57 - ----> Hagen 希勤: Link fetched !
+2023-Oct-02 01:45:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=447
+2023-Oct-02 01:45:57 - Manufacturer html fetched
+2023-Oct-02 01:45:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:57 - Number of pages for be fetched for Halo 自然光環: 1
+2023-Oct-02 01:45:57 - ----> Halo 自然光環: Names fetched !
+2023-Oct-02 01:45:57 - ----> Halo 自然光環: Prices fetched !
+2023-Oct-02 01:45:57 - ----> Halo 自然光環: Link fetched !
+2023-Oct-02 01:45:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=189
+2023-Oct-02 01:45:58 - Manufacturer html fetched
+2023-Oct-02 01:45:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:58 - Number of pages for be fetched for Happy Cat: 1
+2023-Oct-02 01:45:58 - ----> Happy Cat: Names fetched !
+2023-Oct-02 01:45:58 - ----> Happy Cat: Prices fetched !
+2023-Oct-02 01:45:58 - ----> Happy Cat: Link fetched !
+2023-Oct-02 01:45:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=510
+2023-Oct-02 01:45:58 - Manufacturer html fetched
+2023-Oct-02 01:45:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:58 - Number of pages for be fetched for Healix: 0
+2023-Oct-02 01:45:58 - ----> Healix got no products....
+2023-Oct-02 01:45:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=469
+2023-Oct-02 01:45:59 - Manufacturer html fetched
+2023-Oct-02 01:45:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:59 - Number of pages for be fetched for Herchy 禾其: 0
+2023-Oct-02 01:45:59 - ----> Herchy 禾其 got no products....
+2023-Oct-02 01:45:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=277
+2023-Oct-02 01:45:59 - Manufacturer html fetched
+2023-Oct-02 01:45:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:45:59 - Number of pages for be fetched for Herz 赫緻: 1
+2023-Oct-02 01:45:59 - ----> Herz 赫緻: Names fetched !
+2023-Oct-02 01:45:59 - ----> Herz 赫緻: Prices fetched !
+2023-Oct-02 01:45:59 - ----> Herz 赫緻: Link fetched !
+2023-Oct-02 01:45:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=247
+2023-Oct-02 01:46:00 - Manufacturer html fetched
+2023-Oct-02 01:46:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:00 - Number of pages for be fetched for Hill's: 2
+2023-Oct-02 01:46:00 - ----> Hill's got more !!!!!
+2023-Oct-02 01:46:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=78
+2023-Oct-02 01:46:00 - Manufacturer html fetched
+2023-Oct-02 01:46:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:00 - Number of pages for be fetched for Holistic Blend / Harlow Blend 楓葉: 1
+2023-Oct-02 01:46:00 - ----> Holistic Blend / Harlow Blend 楓葉: Names fetched !
+2023-Oct-02 01:46:00 - ----> Holistic Blend / Harlow Blend 楓葉: Prices fetched !
+2023-Oct-02 01:46:00 - ----> Holistic Blend / Harlow Blend 楓葉: Link fetched !
+2023-Oct-02 01:46:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=540
+2023-Oct-02 01:46:01 - Manufacturer html fetched
+2023-Oct-02 01:46:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:01 - Number of pages for be fetched for Holistic Pet Health: 1
+2023-Oct-02 01:46:01 - ----> Holistic Pet Health: Names fetched !
+2023-Oct-02 01:46:01 - ----> Holistic Pet Health: Prices fetched !
+2023-Oct-02 01:46:01 - ----> Holistic Pet Health: Link fetched !
+2023-Oct-02 01:46:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=156
+2023-Oct-02 01:46:01 - Manufacturer html fetched
+2023-Oct-02 01:46:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:01 - Number of pages for be fetched for Holistic Select 活力滋: 0
+2023-Oct-02 01:46:01 - ----> Holistic Select 活力滋 got no products....
+2023-Oct-02 01:46:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=201
+2023-Oct-02 01:46:01 - Manufacturer html fetched
+2023-Oct-02 01:46:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:01 - Number of pages for be fetched for Honey Pets: 1
+2023-Oct-02 01:46:01 - ----> Honey Pets: Names fetched !
+2023-Oct-02 01:46:01 - ----> Honey Pets: Prices fetched !
+2023-Oct-02 01:46:01 - ----> Honey Pets: Link fetched !
+2023-Oct-02 01:46:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=411
+2023-Oct-02 01:46:02 - Manufacturer html fetched
+2023-Oct-02 01:46:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:02 - Number of pages for be fetched for HYEON SA 玄砂: 1
+2023-Oct-02 01:46:02 - ----> HYEON SA 玄砂: Names fetched !
+2023-Oct-02 01:46:02 - ----> HYEON SA 玄砂: Prices fetched !
+2023-Oct-02 01:46:02 - ----> HYEON SA 玄砂: Link fetched !
+2023-Oct-02 01:46:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=231
+2023-Oct-02 01:46:02 - Manufacturer html fetched
+2023-Oct-02 01:46:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:02 - Number of pages for be fetched for I and Love and You: 0
+2023-Oct-02 01:46:02 - ----> I and Love and You got no products....
+2023-Oct-02 01:46:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=453
+2023-Oct-02 01:46:03 - Manufacturer html fetched
+2023-Oct-02 01:46:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:03 - Number of pages for be fetched for I'm different 意大利: 1
+2023-Oct-02 01:46:03 - ----> I'm different 意大利: Names fetched !
+2023-Oct-02 01:46:03 - ----> I'm different 意大利: Prices fetched !
+2023-Oct-02 01:46:03 - ----> I'm different 意大利: Link fetched !
+2023-Oct-02 01:46:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=354
+2023-Oct-02 01:46:03 - Manufacturer html fetched
+2023-Oct-02 01:46:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:03 - Number of pages for be fetched for icat: 1
+2023-Oct-02 01:46:03 - ----> icat: Names fetched !
+2023-Oct-02 01:46:03 - ----> icat: Prices fetched !
+2023-Oct-02 01:46:03 - ----> icat: Link fetched !
+2023-Oct-02 01:46:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=144
+2023-Oct-02 01:46:04 - Manufacturer html fetched
+2023-Oct-02 01:46:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:04 - Number of pages for be fetched for Inaba: 1
+2023-Oct-02 01:46:04 - ----> Inaba: Names fetched !
+2023-Oct-02 01:46:04 - ----> Inaba: Prices fetched !
+2023-Oct-02 01:46:04 - ----> Inaba: Link fetched !
+2023-Oct-02 01:46:04 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=377
+2023-Oct-02 01:46:04 - Manufacturer html fetched
+2023-Oct-02 01:46:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:04 - Number of pages for be fetched for Inception: 1
+2023-Oct-02 01:46:04 - ----> Inception: Names fetched !
+2023-Oct-02 01:46:04 - ----> Inception: Prices fetched !
+2023-Oct-02 01:46:04 - ----> Inception: Link fetched !
+2023-Oct-02 01:46:04 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=530
+2023-Oct-02 01:46:05 - Manufacturer html fetched
+2023-Oct-02 01:46:05 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:05 - Number of pages for be fetched for Indigo 韓國: 1
+2023-Oct-02 01:46:05 - ----> Indigo 韓國: Names fetched !
+2023-Oct-02 01:46:05 - ----> Indigo 韓國: Prices fetched !
+2023-Oct-02 01:46:05 - ----> Indigo 韓國: Link fetched !
+2023-Oct-02 01:46:05 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=306
+2023-Oct-02 01:46:05 - Manufacturer html fetched
+2023-Oct-02 01:46:05 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:05 - Number of pages for be fetched for Innovet 意諾膚: 1
+2023-Oct-02 01:46:05 - ----> Innovet 意諾膚: Names fetched !
+2023-Oct-02 01:46:05 - ----> Innovet 意諾膚: Prices fetched !
+2023-Oct-02 01:46:05 - ----> Innovet 意諾膚: Link fetched !
+2023-Oct-02 01:46:05 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=110
+2023-Oct-02 01:46:06 - Manufacturer html fetched
+2023-Oct-02 01:46:06 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:06 - Number of pages for be fetched for Intersand 加拿大: 1
+2023-Oct-02 01:46:06 - ----> Intersand 加拿大: Names fetched !
+2023-Oct-02 01:46:06 - ----> Intersand 加拿大: Prices fetched !
+2023-Oct-02 01:46:06 - ----> Intersand 加拿大: Link fetched !
+2023-Oct-02 01:46:06 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=328
+2023-Oct-02 01:46:06 - Manufacturer html fetched
+2023-Oct-02 01:46:06 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:06 - Number of pages for be fetched for Ivory Coat 澳洲天然糧: 1
+2023-Oct-02 01:46:06 - ----> Ivory Coat 澳洲天然糧: Names fetched !
+2023-Oct-02 01:46:06 - ----> Ivory Coat 澳洲天然糧: Prices fetched !
+2023-Oct-02 01:46:06 - ----> Ivory Coat 澳洲天然糧: Link fetched !
+2023-Oct-02 01:46:06 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=244
+2023-Oct-02 01:46:07 - Manufacturer html fetched
+2023-Oct-02 01:46:07 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:07 - Number of pages for be fetched for Johnson's Veterinary: 0
+2023-Oct-02 01:46:07 - ----> Johnson's Veterinary got no products....
+2023-Oct-02 01:46:07 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=166
+2023-Oct-02 01:46:07 - Manufacturer html fetched
+2023-Oct-02 01:46:07 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:07 - Number of pages for be fetched for Josera 德寵: 1
+2023-Oct-02 01:46:07 - ----> Josera 德寵: Names fetched !
+2023-Oct-02 01:46:07 - ----> Josera 德寵: Prices fetched !
+2023-Oct-02 01:46:07 - ----> Josera 德寵: Link fetched !
+2023-Oct-02 01:46:07 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=129
+2023-Oct-02 01:46:08 - Manufacturer html fetched
+2023-Oct-02 01:46:08 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:08 - Number of pages for be fetched for K&H: 1
+2023-Oct-02 01:46:08 - ----> K&H: Names fetched !
+2023-Oct-02 01:46:08 - ----> K&H: Prices fetched !
+2023-Oct-02 01:46:08 - ----> K&H: Link fetched !
+2023-Oct-02 01:46:08 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=289
+2023-Oct-02 01:46:08 - Manufacturer html fetched
+2023-Oct-02 01:46:08 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:08 - Number of pages for be fetched for K9 Natural: 1
+2023-Oct-02 01:46:08 - ----> K9 Natural: Names fetched !
+2023-Oct-02 01:46:08 - ----> K9 Natural: Prices fetched !
+2023-Oct-02 01:46:08 - ----> K9 Natural: Link fetched !
+2023-Oct-02 01:46:08 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=163
+2023-Oct-02 01:46:09 - Manufacturer html fetched
+2023-Oct-02 01:46:09 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:09 - Number of pages for be fetched for Kakato: 1
+2023-Oct-02 01:46:09 - ----> Kakato: Names fetched !
+2023-Oct-02 01:46:09 - ----> Kakato: Prices fetched !
+2023-Oct-02 01:46:09 - ----> Kakato: Link fetched !
+2023-Oct-02 01:46:09 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=193
+2023-Oct-02 01:46:09 - Manufacturer html fetched
+2023-Oct-02 01:46:09 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:09 - Number of pages for be fetched for Kao 花王: 1
+2023-Oct-02 01:46:09 - ----> Kao 花王: Names fetched !
+2023-Oct-02 01:46:09 - ----> Kao 花王: Prices fetched !
+2023-Oct-02 01:46:09 - ----> Kao 花王: Link fetched !
+2023-Oct-02 01:46:09 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=85
+2023-Oct-02 01:46:10 - Manufacturer html fetched
+2023-Oct-02 01:46:10 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:10 - Number of pages for be fetched for Karma: 1
+2023-Oct-02 01:46:10 - ----> Karma: Names fetched !
+2023-Oct-02 01:46:10 - ----> Karma: Prices fetched !
+2023-Oct-02 01:46:10 - ----> Karma: Link fetched !
+2023-Oct-02 01:46:10 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=549
+2023-Oct-02 01:46:10 - Manufacturer html fetched
+2023-Oct-02 01:46:10 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:10 - Number of pages for be fetched for Kattovit 德國: 1
+2023-Oct-02 01:46:10 - ----> Kattovit 德國: Names fetched !
+2023-Oct-02 01:46:10 - ----> Kattovit 德國: Prices fetched !
+2023-Oct-02 01:46:10 - ----> Kattovit 德國: Link fetched !
+2023-Oct-02 01:46:10 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=491
+2023-Oct-02 01:46:11 - Manufacturer html fetched
+2023-Oct-02 01:46:11 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:11 - Number of pages for be fetched for KING KONG 韓國: 1
+2023-Oct-02 01:46:11 - ----> KING KONG 韓國: Names fetched !
+2023-Oct-02 01:46:11 - ----> KING KONG 韓國: Prices fetched !
+2023-Oct-02 01:46:11 - ----> KING KONG 韓國: Link fetched !
+2023-Oct-02 01:46:11 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=545
+2023-Oct-02 01:46:11 - Manufacturer html fetched
+2023-Oct-02 01:46:11 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:11 - Number of pages for be fetched for Kiwi Kitchens 紐西蘭: 1
+2023-Oct-02 01:46:11 - ----> Kiwi Kitchens 紐西蘭: Names fetched !
+2023-Oct-02 01:46:11 - ----> Kiwi Kitchens 紐西蘭: Prices fetched !
+2023-Oct-02 01:46:11 - ----> Kiwi Kitchens 紐西蘭: Link fetched !
+2023-Oct-02 01:46:11 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=443
+2023-Oct-02 01:46:12 - Manufacturer html fetched
+2023-Oct-02 01:46:12 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:12 - Number of pages for be fetched for Kiwivital: 1
+2023-Oct-02 01:46:12 - ----> Kiwivital: Names fetched !
+2023-Oct-02 01:46:12 - ----> Kiwivital: Prices fetched !
+2023-Oct-02 01:46:12 - ----> Kiwivital: Link fetched !
+2023-Oct-02 01:46:12 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=473
+2023-Oct-02 01:46:12 - Manufacturer html fetched
+2023-Oct-02 01:46:12 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:12 - Number of pages for be fetched for KOHA: 1
+2023-Oct-02 01:46:12 - ----> KOHA: Names fetched !
+2023-Oct-02 01:46:12 - ----> KOHA: Prices fetched !
+2023-Oct-02 01:46:12 - ----> KOHA: Link fetched !
+2023-Oct-02 01:46:12 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=308
+2023-Oct-02 01:46:13 - Manufacturer html fetched
+2023-Oct-02 01:46:13 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:13 - Number of pages for be fetched for Kyli: 0
+2023-Oct-02 01:46:13 - ----> Kyli got no products....
+2023-Oct-02 01:46:13 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=511
+2023-Oct-02 01:46:13 - Manufacturer html fetched
+2023-Oct-02 01:46:13 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:13 - Number of pages for be fetched for Labivet 韓國: 1
+2023-Oct-02 01:46:13 - ----> Labivet 韓國: Names fetched !
+2023-Oct-02 01:46:13 - ----> Labivet 韓國: Prices fetched !
+2023-Oct-02 01:46:13 - ----> Labivet 韓國: Link fetched !
+2023-Oct-02 01:46:13 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=344
+2023-Oct-02 01:46:14 - Manufacturer html fetched
+2023-Oct-02 01:46:14 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:14 - Number of pages for be fetched for Lapeto 樂倍多: 1
+2023-Oct-02 01:46:14 - ----> Lapeto 樂倍多: Names fetched !
+2023-Oct-02 01:46:14 - ----> Lapeto 樂倍多: Prices fetched !
+2023-Oct-02 01:46:14 - ----> Lapeto 樂倍多: Link fetched !
+2023-Oct-02 01:46:14 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=213
+2023-Oct-02 01:46:14 - Manufacturer html fetched
+2023-Oct-02 01:46:14 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:14 - Number of pages for be fetched for Lavitoile 體檢貓砂: 1
+2023-Oct-02 01:46:14 - ----> Lavitoile 體檢貓砂: Names fetched !
+2023-Oct-02 01:46:14 - ----> Lavitoile 體檢貓砂: Prices fetched !
+2023-Oct-02 01:46:14 - ----> Lavitoile 體檢貓砂: Link fetched !
+2023-Oct-02 01:46:14 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=195
+2023-Oct-02 01:46:15 - Manufacturer html fetched
+2023-Oct-02 01:46:15 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:15 - Number of pages for be fetched for LeChat: 0
+2023-Oct-02 01:46:15 - ----> LeChat got no products....
+2023-Oct-02 01:46:15 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=140
+2023-Oct-02 01:46:15 - Manufacturer html fetched
+2023-Oct-02 01:46:15 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:15 - Number of pages for be fetched for Leonardo: 1
+2023-Oct-02 01:46:15 - ----> Leonardo: Names fetched !
+2023-Oct-02 01:46:15 - ----> Leonardo: Prices fetched !
+2023-Oct-02 01:46:15 - ----> Leonardo: Link fetched !
+2023-Oct-02 01:46:15 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=202
+2023-Oct-02 01:46:16 - Manufacturer html fetched
+2023-Oct-02 01:46:16 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:16 - Number of pages for be fetched for Leotti and MoMon: 1
+2023-Oct-02 01:46:16 - ----> Leotti and MoMon: Names fetched !
+2023-Oct-02 01:46:16 - ----> Leotti and MoMon: Prices fetched !
+2023-Oct-02 01:46:16 - ----> Leotti and MoMon: Link fetched !
+2023-Oct-02 01:46:16 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=323
+2023-Oct-02 01:46:16 - Manufacturer html fetched
+2023-Oct-02 01:46:16 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:16 - Number of pages for be fetched for Lily's Kitchen: 1
+2023-Oct-02 01:46:16 - ----> Lily's Kitchen: Names fetched !
+2023-Oct-02 01:46:16 - ----> Lily's Kitchen: Prices fetched !
+2023-Oct-02 01:46:16 - ----> Lily's Kitchen: Link fetched !
+2023-Oct-02 01:46:16 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=246
+2023-Oct-02 01:46:17 - Manufacturer html fetched
+2023-Oct-02 01:46:17 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:17 - Number of pages for be fetched for Lintbells: 1
+2023-Oct-02 01:46:17 - ----> Lintbells: Names fetched !
+2023-Oct-02 01:46:17 - ----> Lintbells: Prices fetched !
+2023-Oct-02 01:46:17 - ----> Lintbells: Link fetched !
+2023-Oct-02 01:46:17 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=262
+2023-Oct-02 01:46:17 - Manufacturer html fetched
+2023-Oct-02 01:46:17 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:17 - Number of pages for be fetched for LitterLocker: 1
+2023-Oct-02 01:46:17 - ----> LitterLocker: Names fetched !
+2023-Oct-02 01:46:17 - ----> LitterLocker: Prices fetched !
+2023-Oct-02 01:46:17 - ----> LitterLocker: Link fetched !
+2023-Oct-02 01:46:17 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=253
+2023-Oct-02 01:46:18 - Manufacturer html fetched
+2023-Oct-02 01:46:18 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:18 - Number of pages for be fetched for Little Big Paw: 0
+2023-Oct-02 01:46:18 - ----> Little Big Paw got no products....
+2023-Oct-02 01:46:18 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=502
+2023-Oct-02 01:46:18 - Manufacturer html fetched
+2023-Oct-02 01:46:18 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:18 - Number of pages for be fetched for Little Master 小主人: 1
+2023-Oct-02 01:46:18 - ----> Little Master 小主人: Names fetched !
+2023-Oct-02 01:46:18 - ----> Little Master 小主人: Prices fetched !
+2023-Oct-02 01:46:18 - ----> Little Master 小主人: Link fetched !
+2023-Oct-02 01:46:18 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=462
+2023-Oct-02 01:46:19 - Manufacturer html fetched
+2023-Oct-02 01:46:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:19 - Number of pages for be fetched for Loveabowl: 1
+2023-Oct-02 01:46:19 - ----> Loveabowl: Names fetched !
+2023-Oct-02 01:46:19 - ----> Loveabowl: Prices fetched !
+2023-Oct-02 01:46:19 - ----> Loveabowl: Link fetched !
+2023-Oct-02 01:46:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=507
+2023-Oct-02 01:46:19 - Manufacturer html fetched
+2023-Oct-02 01:46:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:19 - Number of pages for be fetched for Lucky Pet 吉祥物: 1
+2023-Oct-02 01:46:19 - ----> Lucky Pet 吉祥物: Names fetched !
+2023-Oct-02 01:46:19 - ----> Lucky Pet 吉祥物: Prices fetched !
+2023-Oct-02 01:46:19 - ----> Lucky Pet 吉祥物: Link fetched !
+2023-Oct-02 01:46:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=387
+2023-Oct-02 01:46:20 - Manufacturer html fetched
+2023-Oct-02 01:46:20 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:20 - Number of pages for be fetched for Magtox: 1
+2023-Oct-02 01:46:20 - ----> Magtox: Names fetched !
+2023-Oct-02 01:46:20 - ----> Magtox: Prices fetched !
+2023-Oct-02 01:46:20 - ----> Magtox: Link fetched !
+2023-Oct-02 01:46:20 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=517
+2023-Oct-02 01:46:20 - Manufacturer html fetched
+2023-Oct-02 01:46:20 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:20 - Number of pages for be fetched for Marly & Dan 法國: 1
+2023-Oct-02 01:46:20 - ----> Marly & Dan 法國: Names fetched !
+2023-Oct-02 01:46:20 - ----> Marly & Dan 法國: Prices fetched !
+2023-Oct-02 01:46:20 - ----> Marly & Dan 法國: Link fetched !
+2023-Oct-02 01:46:20 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=523
+2023-Oct-02 01:46:21 - Manufacturer html fetched
+2023-Oct-02 01:46:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:21 - Number of pages for be fetched for Masterpet 澳洲: 1
+2023-Oct-02 01:46:21 - ----> Masterpet 澳洲: Names fetched !
+2023-Oct-02 01:46:21 - ----> Masterpet 澳洲: Prices fetched !
+2023-Oct-02 01:46:21 - ----> Masterpet 澳洲: Link fetched !
+2023-Oct-02 01:46:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=327
+2023-Oct-02 01:46:21 - Manufacturer html fetched
+2023-Oct-02 01:46:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:21 - Number of pages for be fetched for Meadow Land 米多拿: 1
+2023-Oct-02 01:46:21 - ----> Meadow Land 米多拿: Names fetched !
+2023-Oct-02 01:46:21 - ----> Meadow Land 米多拿: Prices fetched !
+2023-Oct-02 01:46:21 - ----> Meadow Land 米多拿: Link fetched !
+2023-Oct-02 01:46:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=236
+2023-Oct-02 01:46:21 - Manufacturer html fetched
+2023-Oct-02 01:46:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:21 - Number of pages for be fetched for Meow Biotics 益生喵: 0
+2023-Oct-02 01:46:21 - ----> Meow Biotics 益生喵 got no products....
+2023-Oct-02 01:46:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=190
+2023-Oct-02 01:46:22 - Manufacturer html fetched
+2023-Oct-02 01:46:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:22 - Number of pages for be fetched for Meow Mix: 1
+2023-Oct-02 01:46:22 - ----> Meow Mix: Names fetched !
+2023-Oct-02 01:46:22 - ----> Meow Mix: Prices fetched !
+2023-Oct-02 01:46:22 - ----> Meow Mix: Link fetched !
+2023-Oct-02 01:46:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=281
+2023-Oct-02 01:46:22 - Manufacturer html fetched
+2023-Oct-02 01:46:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:22 - Number of pages for be fetched for Meowing Heads: 1
+2023-Oct-02 01:46:22 - ----> Meowing Heads: Names fetched !
+2023-Oct-02 01:46:22 - ----> Meowing Heads: Prices fetched !
+2023-Oct-02 01:46:22 - ----> Meowing Heads: Link fetched !
+2023-Oct-02 01:46:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=503
+2023-Oct-02 01:46:23 - Manufacturer html fetched
+2023-Oct-02 01:46:23 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:23 - Number of pages for be fetched for Meowow 韓國: 1
+2023-Oct-02 01:46:23 - ----> Meowow 韓國: Names fetched !
+2023-Oct-02 01:46:23 - ----> Meowow 韓國: Prices fetched !
+2023-Oct-02 01:46:23 - ----> Meowow 韓國: Link fetched !
+2023-Oct-02 01:46:23 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=221
+2023-Oct-02 01:46:23 - Manufacturer html fetched
+2023-Oct-02 01:46:23 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:23 - Number of pages for be fetched for Merrick: 1
+2023-Oct-02 01:46:23 - ----> Merrick: Names fetched !
+2023-Oct-02 01:46:23 - ----> Merrick: Prices fetched !
+2023-Oct-02 01:46:23 - ----> Merrick: Link fetched !
+2023-Oct-02 01:46:23 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=224
+2023-Oct-02 01:46:24 - Manufacturer html fetched
+2023-Oct-02 01:46:24 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:24 - Number of pages for be fetched for Mervue: 1
+2023-Oct-02 01:46:24 - ----> Mervue: Names fetched !
+2023-Oct-02 01:46:24 - ----> Mervue: Prices fetched !
+2023-Oct-02 01:46:24 - ----> Mervue: Link fetched !
+2023-Oct-02 01:46:24 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=551
+2023-Oct-02 01:46:24 - Manufacturer html fetched
+2023-Oct-02 01:46:24 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:24 - Number of pages for be fetched for Miamor: 1
+2023-Oct-02 01:46:24 - ----> Miamor: Names fetched !
+2023-Oct-02 01:46:24 - ----> Miamor: Prices fetched !
+2023-Oct-02 01:46:24 - ----> Miamor: Link fetched !
+2023-Oct-02 01:46:24 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=310
+2023-Oct-02 01:46:25 - Manufacturer html fetched
+2023-Oct-02 01:46:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:25 - Number of pages for be fetched for miao 咪凹: 0
+2023-Oct-02 01:46:25 - ----> miao 咪凹 got no products....
+2023-Oct-02 01:46:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=79
+2023-Oct-02 01:46:25 - Manufacturer html fetched
+2023-Oct-02 01:46:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:25 - Number of pages for be fetched for MicrocynAH: 1
+2023-Oct-02 01:46:25 - ----> MicrocynAH: Names fetched !
+2023-Oct-02 01:46:25 - ----> MicrocynAH: Prices fetched !
+2023-Oct-02 01:46:25 - ----> MicrocynAH: Link fetched !
+2023-Oct-02 01:46:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=393
+2023-Oct-02 01:46:25 - Manufacturer html fetched
+2023-Oct-02 01:46:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:25 - Number of pages for be fetched for Miiibo 貓咪寶: 1
+2023-Oct-02 01:46:25 - ----> Miiibo 貓咪寶: Names fetched !
+2023-Oct-02 01:46:25 - ----> Miiibo 貓咪寶: Prices fetched !
+2023-Oct-02 01:46:25 - ----> Miiibo 貓咪寶: Link fetched !
+2023-Oct-02 01:46:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=496
+2023-Oct-02 01:46:26 - Manufacturer html fetched
+2023-Oct-02 01:46:26 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:26 - Number of pages for be fetched for Milk-Bone 美國: 1
+2023-Oct-02 01:46:26 - ----> Milk-Bone 美國: Names fetched !
+2023-Oct-02 01:46:26 - ----> Milk-Bone 美國: Prices fetched !
+2023-Oct-02 01:46:26 - ----> Milk-Bone 美國: Link fetched !
+2023-Oct-02 01:46:26 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=123
+2023-Oct-02 01:46:26 - Manufacturer html fetched
+2023-Oct-02 01:46:26 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:26 - Number of pages for be fetched for Mind Up: 1
+2023-Oct-02 01:46:26 - ----> Mind Up: Names fetched !
+2023-Oct-02 01:46:26 - ----> Mind Up: Prices fetched !
+2023-Oct-02 01:46:26 - ----> Mind Up: Link fetched !
+2023-Oct-02 01:46:26 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=178
+2023-Oct-02 01:46:27 - Manufacturer html fetched
+2023-Oct-02 01:46:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:27 - Number of pages for be fetched for Mityan豆乳砂: 1
+2023-Oct-02 01:46:27 - ----> Mityan豆乳砂: Names fetched !
+2023-Oct-02 01:46:27 - ----> Mityan豆乳砂: Prices fetched !
+2023-Oct-02 01:46:27 - ----> Mityan豆乳砂: Link fetched !
+2023-Oct-02 01:46:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=513
+2023-Oct-02 01:46:27 - Manufacturer html fetched
+2023-Oct-02 01:46:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:27 - Number of pages for be fetched for Mjamjam 德國: 1
+2023-Oct-02 01:46:27 - ----> Mjamjam 德國: Names fetched !
+2023-Oct-02 01:46:27 - ----> Mjamjam 德國: Prices fetched !
+2023-Oct-02 01:46:27 - ----> Mjamjam 德國: Link fetched !
+2023-Oct-02 01:46:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=334
+2023-Oct-02 01:46:28 - Manufacturer html fetched
+2023-Oct-02 01:46:28 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:28 - Number of pages for be fetched for MobeWork: 1
+2023-Oct-02 01:46:28 - ----> MobeWork: Names fetched !
+2023-Oct-02 01:46:28 - ----> MobeWork: Prices fetched !
+2023-Oct-02 01:46:28 - ----> MobeWork: Link fetched !
+2023-Oct-02 01:46:28 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=485
+2023-Oct-02 01:46:28 - Manufacturer html fetched
+2023-Oct-02 01:46:28 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:28 - Number of pages for be fetched for Momocare: 1
+2023-Oct-02 01:46:28 - ----> Momocare: Names fetched !
+2023-Oct-02 01:46:28 - ----> Momocare: Prices fetched !
+2023-Oct-02 01:46:28 - ----> Momocare: Link fetched !
+2023-Oct-02 01:46:28 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=520
+2023-Oct-02 01:46:29 - Manufacturer html fetched
+2023-Oct-02 01:46:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:29 - Number of pages for be fetched for MomoCare 凍乾小食: 1
+2023-Oct-02 01:46:29 - ----> MomoCare 凍乾小食: Names fetched !
+2023-Oct-02 01:46:29 - ----> MomoCare 凍乾小食: Prices fetched !
+2023-Oct-02 01:46:29 - ----> MomoCare 凍乾小食: Link fetched !
+2023-Oct-02 01:46:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=102
+2023-Oct-02 01:46:29 - Manufacturer html fetched
+2023-Oct-02 01:46:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:29 - Number of pages for be fetched for Mon Petit: 1
+2023-Oct-02 01:46:29 - ----> Mon Petit: Names fetched !
+2023-Oct-02 01:46:29 - ----> Mon Petit: Prices fetched !
+2023-Oct-02 01:46:29 - ----> Mon Petit: Link fetched !
+2023-Oct-02 01:46:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=184
+2023-Oct-02 01:46:30 - Manufacturer html fetched
+2023-Oct-02 01:46:30 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:30 - Number of pages for be fetched for Monge: 1
+2023-Oct-02 01:46:30 - ----> Monge: Names fetched !
+2023-Oct-02 01:46:30 - ----> Monge: Prices fetched !
+2023-Oct-02 01:46:30 - ----> Monge: Link fetched !
+2023-Oct-02 01:46:30 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=471
+2023-Oct-02 01:46:30 - Manufacturer html fetched
+2023-Oct-02 01:46:30 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:30 - Number of pages for be fetched for Moreson 木入森: 1
+2023-Oct-02 01:46:30 - ----> Moreson 木入森: Names fetched !
+2023-Oct-02 01:46:30 - ----> Moreson 木入森: Prices fetched !
+2023-Oct-02 01:46:30 - ----> Moreson 木入森: Link fetched !
+2023-Oct-02 01:46:30 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=293
+2023-Oct-02 01:46:31 - Manufacturer html fetched
+2023-Oct-02 01:46:31 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:31 - Number of pages for be fetched for MOTI: 1
+2023-Oct-02 01:46:31 - ----> MOTI: Names fetched !
+2023-Oct-02 01:46:31 - ----> MOTI: Prices fetched !
+2023-Oct-02 01:46:31 - ----> MOTI: Link fetched !
+2023-Oct-02 01:46:31 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=542
+2023-Oct-02 01:46:31 - Manufacturer html fetched
+2023-Oct-02 01:46:31 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:31 - Number of pages for be fetched for Mush 芬蘭: 1
+2023-Oct-02 01:46:31 - ----> Mush 芬蘭: Names fetched !
+2023-Oct-02 01:46:31 - ----> Mush 芬蘭: Prices fetched !
+2023-Oct-02 01:46:31 - ----> Mush 芬蘭: Link fetched !
+2023-Oct-02 01:46:31 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=118
+2023-Oct-02 01:46:32 - Manufacturer html fetched
+2023-Oct-02 01:46:32 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:32 - Number of pages for be fetched for My Baby: 1
+2023-Oct-02 01:46:32 - ----> My Baby: Names fetched !
+2023-Oct-02 01:46:32 - ----> My Baby: Prices fetched !
+2023-Oct-02 01:46:32 - ----> My Baby: Link fetched !
+2023-Oct-02 01:46:32 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=449
+2023-Oct-02 01:46:32 - Manufacturer html fetched
+2023-Oct-02 01:46:32 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:32 - Number of pages for be fetched for My Best Friend 脫水貓狗小食: 1
+2023-Oct-02 01:46:32 - ----> My Best Friend 脫水貓狗小食: Names fetched !
+2023-Oct-02 01:46:32 - ----> My Best Friend 脫水貓狗小食: Prices fetched !
+2023-Oct-02 01:46:32 - ----> My Best Friend 脫水貓狗小食: Link fetched !
+2023-Oct-02 01:46:32 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=311
+2023-Oct-02 01:46:33 - Manufacturer html fetched
+2023-Oct-02 01:46:33 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:33 - Number of pages for be fetched for Mybeau 維寶力: 1
+2023-Oct-02 01:46:33 - ----> Mybeau 維寶力: Names fetched !
+2023-Oct-02 01:46:33 - ----> Mybeau 維寶力: Prices fetched !
+2023-Oct-02 01:46:33 - ----> Mybeau 維寶力: Link fetched !
+2023-Oct-02 01:46:33 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=171
+2023-Oct-02 01:46:33 - Manufacturer html fetched
+2023-Oct-02 01:46:33 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:33 - Number of pages for be fetched for N1 (Nature1): 1
+2023-Oct-02 01:46:33 - ----> N1 (Nature1): Names fetched !
+2023-Oct-02 01:46:33 - ----> N1 (Nature1): Prices fetched !
+2023-Oct-02 01:46:33 - ----> N1 (Nature1): Link fetched !
+2023-Oct-02 01:46:33 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=519
+2023-Oct-02 01:46:34 - Manufacturer html fetched
+2023-Oct-02 01:46:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:34 - Number of pages for be fetched for Nano Sanitas 希臘: 1
+2023-Oct-02 01:46:34 - ----> Nano Sanitas 希臘: Names fetched !
+2023-Oct-02 01:46:34 - ----> Nano Sanitas 希臘: Prices fetched !
+2023-Oct-02 01:46:34 - ----> Nano Sanitas 希臘: Link fetched !
+2023-Oct-02 01:46:34 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=494
+2023-Oct-02 01:46:34 - Manufacturer html fetched
+2023-Oct-02 01:46:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:34 - Number of pages for be fetched for Nanowell 日本: 0
+2023-Oct-02 01:46:34 - ----> Nanowell 日本 got no products....
+2023-Oct-02 01:46:34 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=191
+2023-Oct-02 01:46:34 - Manufacturer html fetched
+2023-Oct-02 01:46:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:34 - Number of pages for be fetched for Natural Balance: 1
+2023-Oct-02 01:46:35 - ----> Natural Balance: Names fetched !
+2023-Oct-02 01:46:35 - ----> Natural Balance: Prices fetched !
+2023-Oct-02 01:46:35 - ----> Natural Balance: Link fetched !
+2023-Oct-02 01:46:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=151
+2023-Oct-02 01:46:35 - Manufacturer html fetched
+2023-Oct-02 01:46:35 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:35 - Number of pages for be fetched for Natural Bentonite: 1
+2023-Oct-02 01:46:35 - ----> Natural Bentonite: Names fetched !
+2023-Oct-02 01:46:35 - ----> Natural Bentonite: Prices fetched !
+2023-Oct-02 01:46:35 - ----> Natural Bentonite: Link fetched !
+2023-Oct-02 01:46:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=539
+2023-Oct-02 01:46:36 - Manufacturer html fetched
+2023-Oct-02 01:46:36 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:36 - Number of pages for be fetched for Natural Code: 0
+2023-Oct-02 01:46:36 - ----> Natural Code got no products....
+2023-Oct-02 01:46:36 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=230
+2023-Oct-02 01:46:36 - Manufacturer html fetched
+2023-Oct-02 01:46:36 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:36 - Number of pages for be fetched for Natural Greatness天然貓糧: 1
+2023-Oct-02 01:46:36 - ----> Natural Greatness天然貓糧: Names fetched !
+2023-Oct-02 01:46:36 - ----> Natural Greatness天然貓糧: Prices fetched !
+2023-Oct-02 01:46:36 - ----> Natural Greatness天然貓糧: Link fetched !
+2023-Oct-02 01:46:36 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=448
+2023-Oct-02 01:46:37 - Manufacturer html fetched
+2023-Oct-02 01:46:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:37 - Number of pages for be fetched for Natural Signature: 1
+2023-Oct-02 01:46:37 - ----> Natural Signature: Names fetched !
+2023-Oct-02 01:46:37 - ----> Natural Signature: Prices fetched !
+2023-Oct-02 01:46:37 - ----> Natural Signature: Link fetched !
+2023-Oct-02 01:46:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=101
+2023-Oct-02 01:46:37 - Manufacturer html fetched
+2023-Oct-02 01:46:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:37 - Number of pages for be fetched for Naturcate: 1
+2023-Oct-02 01:46:37 - ----> Naturcate: Names fetched !
+2023-Oct-02 01:46:37 - ----> Naturcate: Prices fetched !
+2023-Oct-02 01:46:37 - ----> Naturcate: Link fetched !
+2023-Oct-02 01:46:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=142
+2023-Oct-02 01:46:37 - Manufacturer html fetched
+2023-Oct-02 01:46:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:37 - Number of pages for be fetched for Nature Logic: 0
+2023-Oct-02 01:46:37 - ----> Nature Logic got no products....
+2023-Oct-02 01:46:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=88
+2023-Oct-02 01:46:38 - Manufacturer html fetched
+2023-Oct-02 01:46:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:38 - Number of pages for be fetched for Nature 豆腐砂: 1
+2023-Oct-02 01:46:38 - ----> Nature 豆腐砂: Names fetched !
+2023-Oct-02 01:46:38 - ----> Nature 豆腐砂: Prices fetched !
+2023-Oct-02 01:46:38 - ----> Nature 豆腐砂: Link fetched !
+2023-Oct-02 01:46:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=65
+2023-Oct-02 01:46:38 - Manufacturer html fetched
+2023-Oct-02 01:46:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:38 - Number of pages for be fetched for Nature's Protection: 1
+2023-Oct-02 01:46:38 - ----> Nature's Protection: Names fetched !
+2023-Oct-02 01:46:38 - ----> Nature's Protection: Prices fetched !
+2023-Oct-02 01:46:38 - ----> Nature's Protection: Link fetched !
+2023-Oct-02 01:46:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=116
+2023-Oct-02 01:46:39 - Manufacturer html fetched
+2023-Oct-02 01:46:39 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:39 - Number of pages for be fetched for Nature's Recipe: 0
+2023-Oct-02 01:46:39 - ----> Nature's Recipe got no products....
+2023-Oct-02 01:46:39 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=80
+2023-Oct-02 01:46:40 - Manufacturer html fetched
+2023-Oct-02 01:46:40 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:40 - Number of pages for be fetched for Nature's Variety: 1
+2023-Oct-02 01:46:40 - ----> Nature's Variety: Names fetched !
+2023-Oct-02 01:46:40 - ----> Nature's Variety: Prices fetched !
+2023-Oct-02 01:46:40 - ----> Nature's Variety: Link fetched !
+2023-Oct-02 01:46:40 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=531
+2023-Oct-02 01:46:40 - Manufacturer html fetched
+2023-Oct-02 01:46:40 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:40 - Number of pages for be fetched for Neko Tofu 韓國: 1
+2023-Oct-02 01:46:40 - ----> Neko Tofu 韓國: Names fetched !
+2023-Oct-02 01:46:40 - ----> Neko Tofu 韓國: Prices fetched !
+2023-Oct-02 01:46:40 - ----> Neko Tofu 韓國: Link fetched !
+2023-Oct-02 01:46:40 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=139
+2023-Oct-02 01:46:40 - Manufacturer html fetched
+2023-Oct-02 01:46:40 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:40 - Number of pages for be fetched for NekoMote: 0
+2023-Oct-02 01:46:40 - ----> NekoMote got no products....
+2023-Oct-02 01:46:40 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=408
+2023-Oct-02 01:46:41 - Manufacturer html fetched
+2023-Oct-02 01:46:41 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:41 - Number of pages for be fetched for Nordic Feast by Astkatta: 1
+2023-Oct-02 01:46:41 - ----> Nordic Feast by Astkatta: Names fetched !
+2023-Oct-02 01:46:41 - ----> Nordic Feast by Astkatta: Prices fetched !
+2023-Oct-02 01:46:41 - ----> Nordic Feast by Astkatta: Link fetched !
+2023-Oct-02 01:46:41 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=463
+2023-Oct-02 01:46:41 - Manufacturer html fetched
+2023-Oct-02 01:46:41 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:41 - Number of pages for be fetched for Northwest Naturals: 1
+2023-Oct-02 01:46:41 - ----> Northwest Naturals: Names fetched !
+2023-Oct-02 01:46:41 - ----> Northwest Naturals: Prices fetched !
+2023-Oct-02 01:46:41 - ----> Northwest Naturals: Link fetched !
+2023-Oct-02 01:46:41 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=295
+2023-Oct-02 01:46:42 - Manufacturer html fetched
+2023-Oct-02 01:46:42 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:42 - Number of pages for be fetched for NOW FRESH: 1
+2023-Oct-02 01:46:42 - ----> NOW FRESH: Names fetched !
+2023-Oct-02 01:46:42 - ----> NOW FRESH: Prices fetched !
+2023-Oct-02 01:46:42 - ----> NOW FRESH: Link fetched !
+2023-Oct-02 01:46:42 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=404
+2023-Oct-02 01:46:42 - Manufacturer html fetched
+2023-Oct-02 01:46:42 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:42 - Number of pages for be fetched for Nunavuto: 1
+2023-Oct-02 01:46:42 - ----> Nunavuto: Names fetched !
+2023-Oct-02 01:46:42 - ----> Nunavuto: Prices fetched !
+2023-Oct-02 01:46:42 - ----> Nunavuto: Link fetched !
+2023-Oct-02 01:46:42 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=412
+2023-Oct-02 01:46:43 - Manufacturer html fetched
+2023-Oct-02 01:46:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:43 - Number of pages for be fetched for NurseMate 奶滋味: 1
+2023-Oct-02 01:46:43 - ----> NurseMate 奶滋味: Names fetched !
+2023-Oct-02 01:46:43 - ----> NurseMate 奶滋味: Prices fetched !
+2023-Oct-02 01:46:43 - ----> NurseMate 奶滋味: Link fetched !
+2023-Oct-02 01:46:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=261
+2023-Oct-02 01:46:43 - Manufacturer html fetched
+2023-Oct-02 01:46:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:43 - Number of pages for be fetched for Nurture Pro 天然密碼: 1
+2023-Oct-02 01:46:43 - ----> Nurture Pro 天然密碼: Names fetched !
+2023-Oct-02 01:46:43 - ----> Nurture Pro 天然密碼: Prices fetched !
+2023-Oct-02 01:46:43 - ----> Nurture Pro 天然密碼: Link fetched !
+2023-Oct-02 01:46:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=50
+2023-Oct-02 01:46:44 - Manufacturer html fetched
+2023-Oct-02 01:46:44 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:44 - Number of pages for be fetched for Nutra Gold: 0
+2023-Oct-02 01:46:44 - ----> Nutra Gold got no products....
+2023-Oct-02 01:46:44 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=391
+2023-Oct-02 01:46:44 - Manufacturer html fetched
+2023-Oct-02 01:46:44 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:44 - Number of pages for be fetched for Nutram 加拿大紐頓: 1
+2023-Oct-02 01:46:44 - ----> Nutram 加拿大紐頓: Names fetched !
+2023-Oct-02 01:46:44 - ----> Nutram 加拿大紐頓: Prices fetched !
+2023-Oct-02 01:46:44 - ----> Nutram 加拿大紐頓: Link fetched !
+2023-Oct-02 01:46:44 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=51
+2023-Oct-02 01:46:45 - Manufacturer html fetched
+2023-Oct-02 01:46:45 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:45 - Number of pages for be fetched for Nutri-Vet: 1
+2023-Oct-02 01:46:45 - ----> Nutri-Vet: Names fetched !
+2023-Oct-02 01:46:45 - ----> Nutri-Vet: Prices fetched !
+2023-Oct-02 01:46:45 - ----> Nutri-Vet: Link fetched !
+2023-Oct-02 01:46:45 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=484
+2023-Oct-02 01:46:45 - Manufacturer html fetched
+2023-Oct-02 01:46:45 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:45 - Number of pages for be fetched for Nutrience 加拿大: 1
+2023-Oct-02 01:46:45 - ----> Nutrience 加拿大: Names fetched !
+2023-Oct-02 01:46:45 - ----> Nutrience 加拿大: Prices fetched !
+2023-Oct-02 01:46:45 - ----> Nutrience 加拿大: Link fetched !
+2023-Oct-02 01:46:45 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=272
+2023-Oct-02 01:46:46 - Manufacturer html fetched
+2023-Oct-02 01:46:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:46 - Number of pages for be fetched for Nutro: 1
+2023-Oct-02 01:46:46 - ----> Nutro: Names fetched !
+2023-Oct-02 01:46:46 - ----> Nutro: Prices fetched !
+2023-Oct-02 01:46:46 - ----> Nutro: Link fetched !
+2023-Oct-02 01:46:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=451
+2023-Oct-02 01:46:46 - Manufacturer html fetched
+2023-Oct-02 01:46:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:46 - Number of pages for be fetched for Omnicide: 1
+2023-Oct-02 01:46:46 - ----> Omnicide: Names fetched !
+2023-Oct-02 01:46:46 - ----> Omnicide: Prices fetched !
+2023-Oct-02 01:46:46 - ----> Omnicide: Link fetched !
+2023-Oct-02 01:46:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=283
+2023-Oct-02 01:46:47 - Manufacturer html fetched
+2023-Oct-02 01:46:47 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:47 - Number of pages for be fetched for Open Farm: 1
+2023-Oct-02 01:46:47 - ----> Open Farm: Names fetched !
+2023-Oct-02 01:46:47 - ----> Open Farm: Prices fetched !
+2023-Oct-02 01:46:47 - ----> Open Farm: Link fetched !
+2023-Oct-02 01:46:47 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=183
+2023-Oct-02 01:46:47 - Manufacturer html fetched
+2023-Oct-02 01:46:47 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:47 - Number of pages for be fetched for Opera歐寶: 1
+2023-Oct-02 01:46:47 - ----> Opera歐寶: Names fetched !
+2023-Oct-02 01:46:47 - ----> Opera歐寶: Prices fetched !
+2023-Oct-02 01:46:47 - ----> Opera歐寶: Link fetched !
+2023-Oct-02 01:46:47 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=187
+2023-Oct-02 01:46:48 - Manufacturer html fetched
+2023-Oct-02 01:46:48 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:48 - Number of pages for be fetched for Organix 歐奇斯: 1
+2023-Oct-02 01:46:48 - ----> Organix 歐奇斯: Names fetched !
+2023-Oct-02 01:46:48 - ----> Organix 歐奇斯: Prices fetched !
+2023-Oct-02 01:46:48 - ----> Organix 歐奇斯: Link fetched !
+2023-Oct-02 01:46:48 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=180
+2023-Oct-02 01:46:49 - Manufacturer html fetched
+2023-Oct-02 01:46:49 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:49 - Number of pages for be fetched for Orijen 渴望: 1
+2023-Oct-02 01:46:49 - ----> Orijen 渴望: Names fetched !
+2023-Oct-02 01:46:49 - ----> Orijen 渴望: Prices fetched !
+2023-Oct-02 01:46:49 - ----> Orijen 渴望: Link fetched !
+2023-Oct-02 01:46:49 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=120
+2023-Oct-02 01:46:49 - Manufacturer html fetched
+2023-Oct-02 01:46:49 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:49 - Number of pages for be fetched for Oven-baked Tradition: 1
+2023-Oct-02 01:46:49 - ----> Oven-baked Tradition: Names fetched !
+2023-Oct-02 01:46:49 - ----> Oven-baked Tradition: Prices fetched !
+2023-Oct-02 01:46:49 - ----> Oven-baked Tradition: Link fetched !
+2023-Oct-02 01:46:49 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=487
+2023-Oct-02 01:46:50 - Manufacturer html fetched
+2023-Oct-02 01:46:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:50 - Number of pages for be fetched for Ownat 西班牙: 1
+2023-Oct-02 01:46:50 - ----> Ownat 西班牙: Names fetched !
+2023-Oct-02 01:46:50 - ----> Ownat 西班牙: Prices fetched !
+2023-Oct-02 01:46:50 - ----> Ownat 西班牙: Link fetched !
+2023-Oct-02 01:46:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=285
+2023-Oct-02 01:46:50 - Manufacturer html fetched
+2023-Oct-02 01:46:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:50 - Number of pages for be fetched for Oxyfresh: 0
+2023-Oct-02 01:46:50 - ----> Oxyfresh got no products....
+2023-Oct-02 01:46:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=409
+2023-Oct-02 01:46:50 - Manufacturer html fetched
+2023-Oct-02 01:46:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:50 - Number of pages for be fetched for P.P Cat: 1
+2023-Oct-02 01:46:50 - ----> P.P Cat: Names fetched !
+2023-Oct-02 01:46:50 - ----> P.P Cat: Prices fetched !
+2023-Oct-02 01:46:50 - ----> P.P Cat: Link fetched !
+2023-Oct-02 01:46:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=505
+2023-Oct-02 01:46:51 - Manufacturer html fetched
+2023-Oct-02 01:46:51 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:51 - Number of pages for be fetched for Papai 巴派: 1
+2023-Oct-02 01:46:51 - ----> Papai 巴派: Names fetched !
+2023-Oct-02 01:46:51 - ----> Papai 巴派: Prices fetched !
+2023-Oct-02 01:46:51 - ----> Papai 巴派: Link fetched !
+2023-Oct-02 01:46:51 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=298
+2023-Oct-02 01:46:51 - Manufacturer html fetched
+2023-Oct-02 01:46:51 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:51 - Number of pages for be fetched for PatzCare: 0
+2023-Oct-02 01:46:51 - ----> PatzCare got no products....
+2023-Oct-02 01:46:51 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=188
+2023-Oct-02 01:46:52 - Manufacturer html fetched
+2023-Oct-02 01:46:52 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:52 - Number of pages for be fetched for Pentoneer: 1
+2023-Oct-02 01:46:52 - ----> Pentoneer: Names fetched !
+2023-Oct-02 01:46:52 - ----> Pentoneer: Prices fetched !
+2023-Oct-02 01:46:52 - ----> Pentoneer: Link fetched !
+2023-Oct-02 01:46:52 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=300
+2023-Oct-02 01:46:52 - Manufacturer html fetched
+2023-Oct-02 01:46:52 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:52 - Number of pages for be fetched for Pet Bay: 0
+2023-Oct-02 01:46:52 - ----> Pet Bay got no products....
+2023-Oct-02 01:46:52 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=141
+2023-Oct-02 01:46:53 - Manufacturer html fetched
+2023-Oct-02 01:46:53 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:53 - Number of pages for be fetched for Pet Remedy: 1
+2023-Oct-02 01:46:53 - ----> Pet Remedy: Names fetched !
+2023-Oct-02 01:46:53 - ----> Pet Remedy: Prices fetched !
+2023-Oct-02 01:46:53 - ----> Pet Remedy: Link fetched !
+2023-Oct-02 01:46:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=100
+2023-Oct-02 01:46:53 - Manufacturer html fetched
+2023-Oct-02 01:46:53 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:53 - Number of pages for be fetched for PetAg: 1
+2023-Oct-02 01:46:53 - ----> PetAg: Names fetched !
+2023-Oct-02 01:46:53 - ----> PetAg: Prices fetched !
+2023-Oct-02 01:46:53 - ----> PetAg: Link fetched !
+2023-Oct-02 01:46:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=146
+2023-Oct-02 01:46:54 - Manufacturer html fetched
+2023-Oct-02 01:46:54 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:54 - Number of pages for be fetched for Petalive: 1
+2023-Oct-02 01:46:54 - ----> Petalive: Names fetched !
+2023-Oct-02 01:46:54 - ----> Petalive: Prices fetched !
+2023-Oct-02 01:46:54 - ----> Petalive: Link fetched !
+2023-Oct-02 01:46:54 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=421
+2023-Oct-02 01:46:54 - Manufacturer html fetched
+2023-Oct-02 01:46:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:55 - Number of pages for be fetched for Petbakery: 0
+2023-Oct-02 01:46:55 - ----> Petbakery got no products....
+2023-Oct-02 01:46:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=331
+2023-Oct-02 01:46:55 - Manufacturer html fetched
+2023-Oct-02 01:46:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:55 - Number of pages for be fetched for Petble: 1
+2023-Oct-02 01:46:55 - ----> Petble: Names fetched !
+2023-Oct-02 01:46:55 - ----> Petble: Prices fetched !
+2023-Oct-02 01:46:55 - ----> Petble: Link fetched !
+2023-Oct-02 01:46:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=97
+2023-Oct-02 01:46:55 - Manufacturer html fetched
+2023-Oct-02 01:46:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:55 - Number of pages for be fetched for Petio: 1
+2023-Oct-02 01:46:55 - ----> Petio: Names fetched !
+2023-Oct-02 01:46:55 - ----> Petio: Prices fetched !
+2023-Oct-02 01:46:55 - ----> Petio: Link fetched !
+2023-Oct-02 01:46:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=353
+2023-Oct-02 01:46:56 - Manufacturer html fetched
+2023-Oct-02 01:46:56 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:56 - Number of pages for be fetched for PETIT LUMINOUS: 1
+2023-Oct-02 01:46:56 - ----> PETIT LUMINOUS: Names fetched !
+2023-Oct-02 01:46:56 - ----> PETIT LUMINOUS: Prices fetched !
+2023-Oct-02 01:46:56 - ----> PETIT LUMINOUS: Link fetched !
+2023-Oct-02 01:46:56 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=199
+2023-Oct-02 01:46:57 - Manufacturer html fetched
+2023-Oct-02 01:46:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:57 - Number of pages for be fetched for Petite Cuisine: 0
+2023-Oct-02 01:46:57 - ----> Petite Cuisine got no products....
+2023-Oct-02 01:46:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=312
+2023-Oct-02 01:46:57 - Manufacturer html fetched
+2023-Oct-02 01:46:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:57 - Number of pages for be fetched for PetKind: 0
+2023-Oct-02 01:46:57 - ----> PetKind got no products....
+2023-Oct-02 01:46:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=126
+2023-Oct-02 01:46:58 - Manufacturer html fetched
+2023-Oct-02 01:46:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:58 - Number of pages for be fetched for PetKit: 1
+2023-Oct-02 01:46:58 - ----> PetKit: Names fetched !
+2023-Oct-02 01:46:58 - ----> PetKit: Prices fetched !
+2023-Oct-02 01:46:58 - ----> PetKit: Link fetched !
+2023-Oct-02 01:46:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=405
+2023-Oct-02 01:46:58 - Manufacturer html fetched
+2023-Oct-02 01:46:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:58 - Number of pages for be fetched for Petpal: 0
+2023-Oct-02 01:46:58 - ----> Petpal got no products....
+2023-Oct-02 01:46:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=378
+2023-Oct-02 01:46:58 - Manufacturer html fetched
+2023-Oct-02 01:46:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:58 - Number of pages for be fetched for Petrum360 寵樂氏: 1
+2023-Oct-02 01:46:58 - ----> Petrum360 寵樂氏: Names fetched !
+2023-Oct-02 01:46:58 - ----> Petrum360 寵樂氏: Prices fetched !
+2023-Oct-02 01:46:58 - ----> Petrum360 寵樂氏: Link fetched !
+2023-Oct-02 01:46:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=400
+2023-Oct-02 01:46:59 - Manufacturer html fetched
+2023-Oct-02 01:46:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:59 - Number of pages for be fetched for PetSay: 1
+2023-Oct-02 01:46:59 - ----> PetSay: Names fetched !
+2023-Oct-02 01:46:59 - ----> PetSay: Prices fetched !
+2023-Oct-02 01:46:59 - ----> PetSay: Link fetched !
+2023-Oct-02 01:46:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=446
+2023-Oct-02 01:46:59 - Manufacturer html fetched
+2023-Oct-02 01:46:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:46:59 - Number of pages for be fetched for Petsist O°Airject: 1
+2023-Oct-02 01:46:59 - ----> Petsist O°Airject: Names fetched !
+2023-Oct-02 01:46:59 - ----> Petsist O°Airject: Prices fetched !
+2023-Oct-02 01:46:59 - ----> Petsist O°Airject: Link fetched !
+2023-Oct-02 01:46:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=522
+2023-Oct-02 01:47:00 - Manufacturer html fetched
+2023-Oct-02 01:47:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:00 - Number of pages for be fetched for Petsmile 美國: 1
+2023-Oct-02 01:47:00 - ----> Petsmile 美國: Names fetched !
+2023-Oct-02 01:47:00 - ----> Petsmile 美國: Prices fetched !
+2023-Oct-02 01:47:00 - ----> Petsmile 美國: Link fetched !
+2023-Oct-02 01:47:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=525
+2023-Oct-02 01:47:00 - Manufacturer html fetched
+2023-Oct-02 01:47:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:01 - Number of pages for be fetched for PetSnowy 糯雪: 1
+2023-Oct-02 01:47:01 - ----> PetSnowy 糯雪: Names fetched !
+2023-Oct-02 01:47:01 - ----> PetSnowy 糯雪: Prices fetched !
+2023-Oct-02 01:47:01 - ----> PetSnowy 糯雪: Link fetched !
+2023-Oct-02 01:47:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=527
+2023-Oct-02 01:47:01 - Manufacturer html fetched
+2023-Oct-02 01:47:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:01 - Number of pages for be fetched for Petso: 1
+2023-Oct-02 01:47:01 - ----> Petso: Names fetched !
+2023-Oct-02 01:47:01 - ----> Petso: Prices fetched !
+2023-Oct-02 01:47:01 - ----> Petso: Link fetched !
+2023-Oct-02 01:47:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=220
+2023-Oct-02 01:47:02 - Manufacturer html fetched
+2023-Oct-02 01:47:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:02 - Number of pages for be fetched for Petssion: 1
+2023-Oct-02 01:47:02 - ----> Petssion: Names fetched !
+2023-Oct-02 01:47:02 - ----> Petssion: Prices fetched !
+2023-Oct-02 01:47:02 - ----> Petssion: Link fetched !
+2023-Oct-02 01:47:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=489
+2023-Oct-02 01:47:02 - Manufacturer html fetched
+2023-Oct-02 01:47:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:02 - Number of pages for be fetched for PetVet 加拿大: 1
+2023-Oct-02 01:47:02 - ----> PetVet 加拿大: Names fetched !
+2023-Oct-02 01:47:02 - ----> PetVet 加拿大: Prices fetched !
+2023-Oct-02 01:47:02 - ----> PetVet 加拿大: Link fetched !
+2023-Oct-02 01:47:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=130
+2023-Oct-02 01:47:02 - Manufacturer html fetched
+2023-Oct-02 01:47:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:02 - Number of pages for be fetched for PetWant: 0
+2023-Oct-02 01:47:02 - ----> PetWant got no products....
+2023-Oct-02 01:47:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=233
+2023-Oct-02 01:47:03 - Manufacturer html fetched
+2023-Oct-02 01:47:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:03 - Number of pages for be fetched for Petz Funny: 1
+2023-Oct-02 01:47:03 - ----> Petz Funny: Names fetched !
+2023-Oct-02 01:47:03 - ----> Petz Funny: Prices fetched !
+2023-Oct-02 01:47:03 - ----> Petz Funny: Link fetched !
+2023-Oct-02 01:47:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=297
+2023-Oct-02 01:47:03 - Manufacturer html fetched
+2023-Oct-02 01:47:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:03 - Number of pages for be fetched for Petzential: 1
+2023-Oct-02 01:47:03 - ----> Petzential: Names fetched !
+2023-Oct-02 01:47:03 - ----> Petzential: Prices fetched !
+2023-Oct-02 01:47:03 - ----> Petzential: Link fetched !
+2023-Oct-02 01:47:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=87
+2023-Oct-02 01:47:04 - Manufacturer html fetched
+2023-Oct-02 01:47:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:04 - Number of pages for be fetched for PositiveCare: 1
+2023-Oct-02 01:47:04 - ----> PositiveCare: Names fetched !
+2023-Oct-02 01:47:04 - ----> PositiveCare: Prices fetched !
+2023-Oct-02 01:47:04 - ----> PositiveCare: Link fetched !
+2023-Oct-02 01:47:04 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=355
+2023-Oct-02 01:47:04 - Manufacturer html fetched
+2023-Oct-02 01:47:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:04 - Number of pages for be fetched for Primal: 1
+2023-Oct-02 01:47:04 - ----> Primal: Names fetched !
+2023-Oct-02 01:47:04 - ----> Primal: Prices fetched !
+2023-Oct-02 01:47:04 - ----> Primal: Link fetched !
+2023-Oct-02 01:47:04 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=338
+2023-Oct-02 01:47:05 - Manufacturer html fetched
+2023-Oct-02 01:47:05 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:05 - Number of pages for be fetched for prins: 0
+2023-Oct-02 01:47:05 - ----> prins got no products....
+2023-Oct-02 01:47:05 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=424
+2023-Oct-02 01:47:05 - Manufacturer html fetched
+2023-Oct-02 01:47:05 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:05 - Number of pages for be fetched for Pro Pac Ultimates: 1
+2023-Oct-02 01:47:05 - ----> Pro Pac Ultimates: Names fetched !
+2023-Oct-02 01:47:05 - ----> Pro Pac Ultimates: Prices fetched !
+2023-Oct-02 01:47:05 - ----> Pro Pac Ultimates: Link fetched !
+2023-Oct-02 01:47:05 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=509
+2023-Oct-02 01:47:06 - Manufacturer html fetched
+2023-Oct-02 01:47:06 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:06 - Number of pages for be fetched for Pro-Nutrition 法國: 1
+2023-Oct-02 01:47:06 - ----> Pro-Nutrition 法國: Names fetched !
+2023-Oct-02 01:47:06 - ----> Pro-Nutrition 法國: Prices fetched !
+2023-Oct-02 01:47:06 - ----> Pro-Nutrition 法國: Link fetched !
+2023-Oct-02 01:47:06 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=533
+2023-Oct-02 01:47:06 - Manufacturer html fetched
+2023-Oct-02 01:47:06 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:06 - Number of pages for be fetched for Proden 保迪: 1
+2023-Oct-02 01:47:06 - ----> Proden 保迪: Names fetched !
+2023-Oct-02 01:47:06 - ----> Proden 保迪: Prices fetched !
+2023-Oct-02 01:47:06 - ----> Proden 保迪: Link fetched !
+2023-Oct-02 01:47:06 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=504
+2023-Oct-02 01:47:07 - Manufacturer html fetched
+2023-Oct-02 01:47:07 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:07 - Number of pages for be fetched for Protexin 英國: 1
+2023-Oct-02 01:47:07 - ----> Protexin 英國: Names fetched !
+2023-Oct-02 01:47:07 - ----> Protexin 英國: Prices fetched !
+2023-Oct-02 01:47:07 - ----> Protexin 英國: Link fetched !
+2023-Oct-02 01:47:07 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=222
+2023-Oct-02 01:47:07 - Manufacturer html fetched
+2023-Oct-02 01:47:07 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:07 - Number of pages for be fetched for Pure: 0
+2023-Oct-02 01:47:07 - ----> Pure got no products....
+2023-Oct-02 01:47:07 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=194
+2023-Oct-02 01:47:08 - Manufacturer html fetched
+2023-Oct-02 01:47:08 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:08 - Number of pages for be fetched for Purina: 1
+2023-Oct-02 01:47:08 - ----> Purina: Names fetched !
+2023-Oct-02 01:47:08 - ----> Purina: Prices fetched !
+2023-Oct-02 01:47:08 - ----> Purina: Link fetched !
+2023-Oct-02 01:47:08 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=320
+2023-Oct-02 01:47:08 - Manufacturer html fetched
+2023-Oct-02 01:47:08 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:08 - Number of pages for be fetched for Purpose: 1
+2023-Oct-02 01:47:08 - ----> Purpose: Names fetched !
+2023-Oct-02 01:47:08 - ----> Purpose: Prices fetched !
+2023-Oct-02 01:47:08 - ----> Purpose: Link fetched !
+2023-Oct-02 01:47:08 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=535
+2023-Oct-02 01:47:09 - Manufacturer html fetched
+2023-Oct-02 01:47:09 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:09 - Number of pages for be fetched for Push! 台灣: 1
+2023-Oct-02 01:47:09 - ----> Push! 台灣: Names fetched !
+2023-Oct-02 01:47:09 - ----> Push! 台灣: Prices fetched !
+2023-Oct-02 01:47:09 - ----> Push! 台灣: Link fetched !
+2023-Oct-02 01:47:09 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=225
+2023-Oct-02 01:47:09 - Manufacturer html fetched
+2023-Oct-02 01:47:09 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:09 - Number of pages for be fetched for Quantel 康圖驅蟲片: 1
+2023-Oct-02 01:47:09 - ----> Quantel 康圖驅蟲片: Names fetched !
+2023-Oct-02 01:47:09 - ----> Quantel 康圖驅蟲片: Prices fetched !
+2023-Oct-02 01:47:09 - ----> Quantel 康圖驅蟲片: Link fetched !
+2023-Oct-02 01:47:09 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=544
+2023-Oct-02 01:47:10 - Manufacturer html fetched
+2023-Oct-02 01:47:10 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:10 - Number of pages for be fetched for Raizup 法國: 1
+2023-Oct-02 01:47:10 - ----> Raizup 法國: Names fetched !
+2023-Oct-02 01:47:10 - ----> Raizup 法國: Prices fetched !
+2023-Oct-02 01:47:10 - ----> Raizup 法國: Link fetched !
+2023-Oct-02 01:47:10 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=481
+2023-Oct-02 01:47:10 - Manufacturer html fetched
+2023-Oct-02 01:47:10 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:10 - Number of pages for be fetched for RAWZ 美國: 1
+2023-Oct-02 01:47:10 - ----> RAWZ 美國: Names fetched !
+2023-Oct-02 01:47:10 - ----> RAWZ 美國: Prices fetched !
+2023-Oct-02 01:47:10 - ----> RAWZ 美國: Link fetched !
+2023-Oct-02 01:47:10 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=441
+2023-Oct-02 01:47:11 - Manufacturer html fetched
+2023-Oct-02 01:47:11 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:11 - Number of pages for be fetched for Real Power 瑞威: 1
+2023-Oct-02 01:47:11 - ----> Real Power 瑞威: Names fetched !
+2023-Oct-02 01:47:11 - ----> Real Power 瑞威: Prices fetched !
+2023-Oct-02 01:47:11 - ----> Real Power 瑞威: Link fetched !
+2023-Oct-02 01:47:11 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=552
+2023-Oct-02 01:47:11 - Manufacturer html fetched
+2023-Oct-02 01:47:11 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:11 - Number of pages for be fetched for RecoActiv 德國: 1
+2023-Oct-02 01:47:11 - ----> RecoActiv 德國: Names fetched !
+2023-Oct-02 01:47:11 - ----> RecoActiv 德國: Prices fetched !
+2023-Oct-02 01:47:11 - ----> RecoActiv 德國: Link fetched !
+2023-Oct-02 01:47:11 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=305
+2023-Oct-02 01:47:12 - Manufacturer html fetched
+2023-Oct-02 01:47:12 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:12 - Number of pages for be fetched for Resvantage: 1
+2023-Oct-02 01:47:12 - ----> Resvantage: Names fetched !
+2023-Oct-02 01:47:12 - ----> Resvantage: Prices fetched !
+2023-Oct-02 01:47:12 - ----> Resvantage: Link fetched !
+2023-Oct-02 01:47:12 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=444
+2023-Oct-02 01:47:12 - Manufacturer html fetched
+2023-Oct-02 01:47:12 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:12 - Number of pages for be fetched for Riverd Republic: 1
+2023-Oct-02 01:47:12 - ----> Riverd Republic: Names fetched !
+2023-Oct-02 01:47:12 - ----> Riverd Republic: Prices fetched !
+2023-Oct-02 01:47:12 - ----> Riverd Republic: Link fetched !
+2023-Oct-02 01:47:12 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=159
+2023-Oct-02 01:47:13 - Manufacturer html fetched
+2023-Oct-02 01:47:13 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:13 - Number of pages for be fetched for Royal Canin 法國皇家: 3
+2023-Oct-02 01:47:13 - ----> Royal Canin 法國皇家 got more !!!!!
+2023-Oct-02 01:47:13 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=217
+2023-Oct-02 01:47:13 - Manufacturer html fetched
+2023-Oct-02 01:47:13 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:13 - Number of pages for be fetched for Royal Pet 148: 1
+2023-Oct-02 01:47:13 - ----> Royal Pet 148: Names fetched !
+2023-Oct-02 01:47:13 - ----> Royal Pet 148: Prices fetched !
+2023-Oct-02 01:47:13 - ----> Royal Pet 148: Link fetched !
+2023-Oct-02 01:47:13 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=553
+2023-Oct-02 01:47:14 - Manufacturer html fetched
+2023-Oct-02 01:47:14 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:14 - Number of pages for be fetched for Royal-Pets: 1
+2023-Oct-02 01:47:14 - ----> Royal-Pets: Names fetched !
+2023-Oct-02 01:47:14 - ----> Royal-Pets: Prices fetched !
+2023-Oct-02 01:47:14 - ----> Royal-Pets: Link fetched !
+2023-Oct-02 01:47:14 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=175
+2023-Oct-02 01:47:14 - Manufacturer html fetched
+2023-Oct-02 01:47:14 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:14 - Number of pages for be fetched for Salican 挪威森林: 1
+2023-Oct-02 01:47:14 - ----> Salican 挪威森林: Names fetched !
+2023-Oct-02 01:47:14 - ----> Salican 挪威森林: Prices fetched !
+2023-Oct-02 01:47:14 - ----> Salican 挪威森林: Link fetched !
+2023-Oct-02 01:47:14 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=431
+2023-Oct-02 01:47:15 - Manufacturer html fetched
+2023-Oct-02 01:47:15 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:15 - Number of pages for be fetched for Sanabelle德國: 0
+2023-Oct-02 01:47:15 - ----> Sanabelle德國 got no products....
+2023-Oct-02 01:47:15 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=248
+2023-Oct-02 01:47:15 - Manufacturer html fetched
+2023-Oct-02 01:47:15 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:15 - Number of pages for be fetched for Sanimed善理邁: 1
+2023-Oct-02 01:47:15 - ----> Sanimed善理邁: Names fetched !
+2023-Oct-02 01:47:15 - ----> Sanimed善理邁: Prices fetched !
+2023-Oct-02 01:47:15 - ----> Sanimed善理邁: Link fetched !
+2023-Oct-02 01:47:15 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=492
+2023-Oct-02 01:47:16 - Manufacturer html fetched
+2023-Oct-02 01:47:16 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:16 - Number of pages for be fetched for SARR 韓國: 1
+2023-Oct-02 01:47:16 - ----> SARR 韓國: Names fetched !
+2023-Oct-02 01:47:16 - ----> SARR 韓國: Prices fetched !
+2023-Oct-02 01:47:16 - ----> SARR 韓國: Link fetched !
+2023-Oct-02 01:47:16 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=84
+2023-Oct-02 01:47:16 - Manufacturer html fetched
+2023-Oct-02 01:47:16 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:16 - Number of pages for be fetched for Schesir: 1
+2023-Oct-02 01:47:16 - ----> Schesir: Names fetched !
+2023-Oct-02 01:47:16 - ----> Schesir: Prices fetched !
+2023-Oct-02 01:47:16 - ----> Schesir: Link fetched !
+2023-Oct-02 01:47:16 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=546
+2023-Oct-02 01:47:17 - Manufacturer html fetched
+2023-Oct-02 01:47:17 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:17 - Number of pages for be fetched for Scoop Away 美國: 1
+2023-Oct-02 01:47:17 - ----> Scoop Away 美國: Names fetched !
+2023-Oct-02 01:47:17 - ----> Scoop Away 美國: Prices fetched !
+2023-Oct-02 01:47:17 - ----> Scoop Away 美國: Link fetched !
+2023-Oct-02 01:47:17 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=216
+2023-Oct-02 01:47:17 - Manufacturer html fetched
+2023-Oct-02 01:47:17 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:17 - Number of pages for be fetched for Seeds: 1
+2023-Oct-02 01:47:17 - ----> Seeds: Names fetched !
+2023-Oct-02 01:47:17 - ----> Seeds: Prices fetched !
+2023-Oct-02 01:47:17 - ----> Seeds: Link fetched !
+2023-Oct-02 01:47:17 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=269
+2023-Oct-02 01:47:18 - Manufacturer html fetched
+2023-Oct-02 01:47:18 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:18 - Number of pages for be fetched for Sheba: 1
+2023-Oct-02 01:47:18 - ----> Sheba: Names fetched !
+2023-Oct-02 01:47:18 - ----> Sheba: Prices fetched !
+2023-Oct-02 01:47:18 - ----> Sheba: Link fetched !
+2023-Oct-02 01:47:18 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=454
+2023-Oct-02 01:47:18 - Manufacturer html fetched
+2023-Oct-02 01:47:18 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:18 - Number of pages for be fetched for Show Tech: 1
+2023-Oct-02 01:47:18 - ----> Show Tech: Names fetched !
+2023-Oct-02 01:47:18 - ----> Show Tech: Prices fetched !
+2023-Oct-02 01:47:18 - ----> Show Tech: Link fetched !
+2023-Oct-02 01:47:18 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=369
+2023-Oct-02 01:47:19 - Manufacturer html fetched
+2023-Oct-02 01:47:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:19 - Number of pages for be fetched for Shukufuku福 豆腐貓砂: 1
+2023-Oct-02 01:47:19 - ----> Shukufuku福 豆腐貓砂: Names fetched !
+2023-Oct-02 01:47:19 - ----> Shukufuku福 豆腐貓砂: Prices fetched !
+2023-Oct-02 01:47:19 - ----> Shukufuku福 豆腐貓砂: Link fetched !
+2023-Oct-02 01:47:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=419
+2023-Oct-02 01:47:19 - Manufacturer html fetched
+2023-Oct-02 01:47:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:19 - Number of pages for be fetched for SIANA 饍康靈: 0
+2023-Oct-02 01:47:19 - ----> SIANA 饍康靈 got no products....
+2023-Oct-02 01:47:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=360
+2023-Oct-02 01:47:19 - Manufacturer html fetched
+2023-Oct-02 01:47:19 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:19 - Number of pages for be fetched for Signature7: 1
+2023-Oct-02 01:47:19 - ----> Signature7: Names fetched !
+2023-Oct-02 01:47:19 - ----> Signature7: Prices fetched !
+2023-Oct-02 01:47:19 - ----> Signature7: Link fetched !
+2023-Oct-02 01:47:19 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=197
+2023-Oct-02 01:47:20 - Manufacturer html fetched
+2023-Oct-02 01:47:20 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:20 - Number of pages for be fetched for Simpsons Premium: 0
+2023-Oct-02 01:47:20 - ----> Simpsons Premium got no products....
+2023-Oct-02 01:47:20 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=174
+2023-Oct-02 01:47:20 - Manufacturer html fetched
+2023-Oct-02 01:47:20 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:20 - Number of pages for be fetched for Sivocat Green: 0
+2023-Oct-02 01:47:20 - ----> Sivocat Green got no products....
+2023-Oct-02 01:47:20 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=291
+2023-Oct-02 01:47:21 - Manufacturer html fetched
+2023-Oct-02 01:47:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:21 - Number of pages for be fetched for Smiley Cats: 0
+2023-Oct-02 01:47:21 - ----> Smiley Cats got no products....
+2023-Oct-02 01:47:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=209
+2023-Oct-02 01:47:21 - Manufacturer html fetched
+2023-Oct-02 01:47:21 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:21 - Number of pages for be fetched for Solano: 1
+2023-Oct-02 01:47:21 - ----> Solano: Names fetched !
+2023-Oct-02 01:47:21 - ----> Solano: Prices fetched !
+2023-Oct-02 01:47:21 - ----> Solano: Link fetched !
+2023-Oct-02 01:47:21 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=237
+2023-Oct-02 01:47:22 - Manufacturer html fetched
+2023-Oct-02 01:47:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:22 - Number of pages for be fetched for Solid Gold 素力高: 1
+2023-Oct-02 01:47:22 - ----> Solid Gold 素力高: Names fetched !
+2023-Oct-02 01:47:22 - ----> Solid Gold 素力高: Prices fetched !
+2023-Oct-02 01:47:22 - ----> Solid Gold 素力高: Link fetched !
+2023-Oct-02 01:47:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=436
+2023-Oct-02 01:47:22 - Manufacturer html fetched
+2023-Oct-02 01:47:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:22 - Number of pages for be fetched for SportMix: 1
+2023-Oct-02 01:47:22 - ----> SportMix: Names fetched !
+2023-Oct-02 01:47:22 - ----> SportMix: Prices fetched !
+2023-Oct-02 01:47:22 - ----> SportMix: Link fetched !
+2023-Oct-02 01:47:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=218
+2023-Oct-02 01:47:22 - Manufacturer html fetched
+2023-Oct-02 01:47:22 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:22 - Number of pages for be fetched for Spring Naturals 曙光: 1
+2023-Oct-02 01:47:22 - ----> Spring Naturals 曙光: Names fetched !
+2023-Oct-02 01:47:22 - ----> Spring Naturals 曙光: Prices fetched !
+2023-Oct-02 01:47:22 - ----> Spring Naturals 曙光: Link fetched !
+2023-Oct-02 01:47:22 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=186
+2023-Oct-02 01:47:23 - Manufacturer html fetched
+2023-Oct-02 01:47:23 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:23 - Number of pages for be fetched for Stella & Chewy's: 2
+2023-Oct-02 01:47:23 - ----> Stella & Chewy's got more !!!!!
+2023-Oct-02 01:47:23 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=396
+2023-Oct-02 01:47:24 - Manufacturer html fetched
+2023-Oct-02 01:47:24 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:24 - Number of pages for be fetched for Strayless 浪浪: 1
+2023-Oct-02 01:47:24 - ----> Strayless 浪浪: Names fetched !
+2023-Oct-02 01:47:24 - ----> Strayless 浪浪: Prices fetched !
+2023-Oct-02 01:47:24 - ----> Strayless 浪浪: Link fetched !
+2023-Oct-02 01:47:24 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=512
+2023-Oct-02 01:47:24 - Manufacturer html fetched
+2023-Oct-02 01:47:24 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:24 - Number of pages for be fetched for Sunrise 日本: 1
+2023-Oct-02 01:47:24 - ----> Sunrise 日本: Names fetched !
+2023-Oct-02 01:47:24 - ----> Sunrise 日本: Prices fetched !
+2023-Oct-02 01:47:24 - ----> Sunrise 日本: Link fetched !
+2023-Oct-02 01:47:24 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=554
+2023-Oct-02 01:47:25 - Manufacturer html fetched
+2023-Oct-02 01:47:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:25 - Number of pages for be fetched for Super Cat 烏克蘭: 1
+2023-Oct-02 01:47:25 - ----> Super Cat 烏克蘭: Names fetched !
+2023-Oct-02 01:47:25 - ----> Super Cat 烏克蘭: Prices fetched !
+2023-Oct-02 01:47:25 - ----> Super Cat 烏克蘭: Link fetched !
+2023-Oct-02 01:47:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=399
+2023-Oct-02 01:47:25 - Manufacturer html fetched
+2023-Oct-02 01:47:25 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:25 - Number of pages for be fetched for Sustainably Yours 善地球: 1
+2023-Oct-02 01:47:25 - ----> Sustainably Yours 善地球: Names fetched !
+2023-Oct-02 01:47:25 - ----> Sustainably Yours 善地球: Prices fetched !
+2023-Oct-02 01:47:25 - ----> Sustainably Yours 善地球: Link fetched !
+2023-Oct-02 01:47:25 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=333
+2023-Oct-02 01:47:26 - Manufacturer html fetched
+2023-Oct-02 01:47:26 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:26 - Number of pages for be fetched for Symply: 1
+2023-Oct-02 01:47:26 - ----> Symply: Names fetched !
+2023-Oct-02 01:47:26 - ----> Symply: Prices fetched !
+2023-Oct-02 01:47:26 - ----> Symply: Link fetched !
+2023-Oct-02 01:47:26 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=493
+2023-Oct-02 01:47:26 - Manufacturer html fetched
+2023-Oct-02 01:47:26 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:26 - Number of pages for be fetched for TADASHII: 1
+2023-Oct-02 01:47:26 - ----> TADASHII: Names fetched !
+2023-Oct-02 01:47:26 - ----> TADASHII: Prices fetched !
+2023-Oct-02 01:47:26 - ----> TADASHII: Link fetched !
+2023-Oct-02 01:47:26 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=543
+2023-Oct-02 01:47:27 - Manufacturer html fetched
+2023-Oct-02 01:47:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:27 - Number of pages for be fetched for Talentail 澳卡特: 1
+2023-Oct-02 01:47:27 - ----> Talentail 澳卡特: Names fetched !
+2023-Oct-02 01:47:27 - ----> Talentail 澳卡特: Prices fetched !
+2023-Oct-02 01:47:27 - ----> Talentail 澳卡特: Link fetched !
+2023-Oct-02 01:47:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=95
+2023-Oct-02 01:47:27 - Manufacturer html fetched
+2023-Oct-02 01:47:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:27 - Number of pages for be fetched for Taste Of The Wild: 1
+2023-Oct-02 01:47:27 - ----> Taste Of The Wild: Names fetched !
+2023-Oct-02 01:47:27 - ----> Taste Of The Wild: Prices fetched !
+2023-Oct-02 01:47:27 - ----> Taste Of The Wild: Link fetched !
+2023-Oct-02 01:47:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=103
+2023-Oct-02 01:47:27 - Manufacturer html fetched
+2023-Oct-02 01:47:27 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:27 - Number of pages for be fetched for Tasty Prize: 1
+2023-Oct-02 01:47:27 - ----> Tasty Prize: Names fetched !
+2023-Oct-02 01:47:27 - ----> Tasty Prize: Prices fetched !
+2023-Oct-02 01:47:27 - ----> Tasty Prize: Link fetched !
+2023-Oct-02 01:47:27 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=528
+2023-Oct-02 01:47:28 - Manufacturer html fetched
+2023-Oct-02 01:47:28 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:28 - Number of pages for be fetched for Temptations: 1
+2023-Oct-02 01:47:28 - ----> Temptations: Names fetched !
+2023-Oct-02 01:47:28 - ----> Temptations: Prices fetched !
+2023-Oct-02 01:47:28 - ----> Temptations: Link fetched !
+2023-Oct-02 01:47:28 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=296
+2023-Oct-02 01:47:28 - Manufacturer html fetched
+2023-Oct-02 01:47:28 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:28 - Number of pages for be fetched for The Gift for Life: 1
+2023-Oct-02 01:47:28 - ----> The Gift for Life: Names fetched !
+2023-Oct-02 01:47:28 - ----> The Gift for Life: Prices fetched !
+2023-Oct-02 01:47:28 - ----> The Gift for Life: Link fetched !
+2023-Oct-02 01:47:28 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=455
+2023-Oct-02 01:47:29 - Manufacturer html fetched
+2023-Oct-02 01:47:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:29 - Number of pages for be fetched for The New Zealand Pet Food Co.: 1
+2023-Oct-02 01:47:29 - ----> The New Zealand Pet Food Co.: Names fetched !
+2023-Oct-02 01:47:29 - ----> The New Zealand Pet Food Co.: Prices fetched !
+2023-Oct-02 01:47:29 - ----> The New Zealand Pet Food Co.: Link fetched !
+2023-Oct-02 01:47:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=438
+2023-Oct-02 01:47:29 - Manufacturer html fetched
+2023-Oct-02 01:47:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:29 - Number of pages for be fetched for ThorneVet 霍恩: 1
+2023-Oct-02 01:47:29 - ----> ThorneVet 霍恩: Names fetched !
+2023-Oct-02 01:47:29 - ----> ThorneVet 霍恩: Prices fetched !
+2023-Oct-02 01:47:29 - ----> ThorneVet 霍恩: Link fetched !
+2023-Oct-02 01:47:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=92
+2023-Oct-02 01:47:29 - Manufacturer html fetched
+2023-Oct-02 01:47:29 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:29 - Number of pages for be fetched for Thrive脆樂芙: 1
+2023-Oct-02 01:47:29 - ----> Thrive脆樂芙: Names fetched !
+2023-Oct-02 01:47:29 - ----> Thrive脆樂芙: Prices fetched !
+2023-Oct-02 01:47:29 - ----> Thrive脆樂芙: Link fetched !
+2023-Oct-02 01:47:29 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=476
+2023-Oct-02 01:47:30 - Manufacturer html fetched
+2023-Oct-02 01:47:30 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:30 - Number of pages for be fetched for Timeplus＋: 1
+2023-Oct-02 01:47:30 - ----> Timeplus＋: Names fetched !
+2023-Oct-02 01:47:30 - ----> Timeplus＋: Prices fetched !
+2023-Oct-02 01:47:30 - ----> Timeplus＋: Link fetched !
+2023-Oct-02 01:47:30 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=464
+2023-Oct-02 01:47:30 - Manufacturer html fetched
+2023-Oct-02 01:47:30 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:30 - Number of pages for be fetched for TOUGH CAT: 1
+2023-Oct-02 01:47:30 - ----> TOUGH CAT: Names fetched !
+2023-Oct-02 01:47:30 - ----> TOUGH CAT: Prices fetched !
+2023-Oct-02 01:47:30 - ----> TOUGH CAT: Link fetched !
+2023-Oct-02 01:47:30 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=428
+2023-Oct-02 01:47:31 - Manufacturer html fetched
+2023-Oct-02 01:47:31 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:31 - Number of pages for be fetched for Trilogy 奇境: 1
+2023-Oct-02 01:47:31 - ----> Trilogy 奇境: Names fetched !
+2023-Oct-02 01:47:31 - ----> Trilogy 奇境: Prices fetched !
+2023-Oct-02 01:47:31 - ----> Trilogy 奇境: Link fetched !
+2023-Oct-02 01:47:31 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=368
+2023-Oct-02 01:47:31 - Manufacturer html fetched
+2023-Oct-02 01:47:31 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:31 - Number of pages for be fetched for Tropiclean: 0
+2023-Oct-02 01:47:31 - ----> Tropiclean got no products....
+2023-Oct-02 01:47:31 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=521
+2023-Oct-02 01:47:32 - Manufacturer html fetched
+2023-Oct-02 01:47:32 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:32 - Number of pages for be fetched for Tu Meke Friend 紐西蘭: 1
+2023-Oct-02 01:47:32 - ----> Tu Meke Friend 紐西蘭: Names fetched !
+2023-Oct-02 01:47:32 - ----> Tu Meke Friend 紐西蘭: Prices fetched !
+2023-Oct-02 01:47:32 - ----> Tu Meke Friend 紐西蘭: Link fetched !
+2023-Oct-02 01:47:32 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=427
+2023-Oct-02 01:47:32 - Manufacturer html fetched
+2023-Oct-02 01:47:32 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:32 - Number of pages for be fetched for Twinkling Star: 0
+2023-Oct-02 01:47:32 - ----> Twinkling Star got no products....
+2023-Oct-02 01:47:32 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=177
+2023-Oct-02 01:47:33 - Manufacturer html fetched
+2023-Oct-02 01:47:33 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:33 - Number of pages for be fetched for UniCharm: 1
+2023-Oct-02 01:47:33 - ----> UniCharm: Names fetched !
+2023-Oct-02 01:47:33 - ----> UniCharm: Prices fetched !
+2023-Oct-02 01:47:33 - ----> UniCharm: Link fetched !
+2023-Oct-02 01:47:33 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=255
+2023-Oct-02 01:47:33 - Manufacturer html fetched
+2023-Oct-02 01:47:33 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:33 - Number of pages for be fetched for UniCharm三星美食: 0
+2023-Oct-02 01:47:33 - ----> UniCharm三星美食 got no products....
+2023-Oct-02 01:47:33 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=254
+2023-Oct-02 01:47:34 - Manufacturer html fetched
+2023-Oct-02 01:47:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:34 - Number of pages for be fetched for UniCharm銀匙: 0
+2023-Oct-02 01:47:34 - ----> UniCharm銀匙 got no products....
+2023-Oct-02 01:47:34 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=340
+2023-Oct-02 01:47:34 - Manufacturer html fetched
+2023-Oct-02 01:47:34 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:34 - Number of pages for be fetched for VERUS: 1
+2023-Oct-02 01:47:34 - ----> VERUS: Names fetched !
+2023-Oct-02 01:47:34 - ----> VERUS: Prices fetched !
+2023-Oct-02 01:47:34 - ----> VERUS: Link fetched !
+2023-Oct-02 01:47:34 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=280
+2023-Oct-02 01:47:35 - Manufacturer html fetched
+2023-Oct-02 01:47:35 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:35 - Number of pages for be fetched for Vet Worthy: 0
+2023-Oct-02 01:47:35 - ----> Vet Worthy got no products....
+2023-Oct-02 01:47:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=422
+2023-Oct-02 01:47:35 - Manufacturer html fetched
+2023-Oct-02 01:47:35 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:35 - Number of pages for be fetched for VETIQ: 1
+2023-Oct-02 01:47:35 - ----> VETIQ: Names fetched !
+2023-Oct-02 01:47:35 - ----> VETIQ: Prices fetched !
+2023-Oct-02 01:47:35 - ----> VETIQ: Link fetched !
+2023-Oct-02 01:47:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=402
+2023-Oct-02 01:47:35 - Manufacturer html fetched
+2023-Oct-02 01:47:35 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:35 - Number of pages for be fetched for Vetoquinol: 0
+2023-Oct-02 01:47:35 - ----> Vetoquinol got no products....
+2023-Oct-02 01:47:35 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=445
+2023-Oct-02 01:47:36 - Manufacturer html fetched
+2023-Oct-02 01:47:36 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:36 - Number of pages for be fetched for VETPHARM: 1
+2023-Oct-02 01:47:36 - ----> VETPHARM: Names fetched !
+2023-Oct-02 01:47:36 - ----> VETPHARM: Prices fetched !
+2023-Oct-02 01:47:36 - ----> VETPHARM: Link fetched !
+2023-Oct-02 01:47:36 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=497
+2023-Oct-02 01:47:36 - Manufacturer html fetched
+2023-Oct-02 01:47:36 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:36 - Number of pages for be fetched for VetPro 澳洲: 1
+2023-Oct-02 01:47:36 - ----> VetPro 澳洲: Names fetched !
+2023-Oct-02 01:47:36 - ----> VetPro 澳洲: Prices fetched !
+2023-Oct-02 01:47:36 - ----> VetPro 澳洲: Link fetched !
+2023-Oct-02 01:47:36 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=349
+2023-Oct-02 01:47:37 - Manufacturer html fetched
+2023-Oct-02 01:47:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:37 - Number of pages for be fetched for VETRESKA: 1
+2023-Oct-02 01:47:37 - ----> VETRESKA: Names fetched !
+2023-Oct-02 01:47:37 - ----> VETRESKA: Prices fetched !
+2023-Oct-02 01:47:37 - ----> VETRESKA: Link fetched !
+2023-Oct-02 01:47:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=270
+2023-Oct-02 01:47:37 - Manufacturer html fetched
+2023-Oct-02 01:47:37 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:37 - Number of pages for be fetched for Vetri Science: 1
+2023-Oct-02 01:47:37 - ----> Vetri Science: Names fetched !
+2023-Oct-02 01:47:37 - ----> Vetri Science: Prices fetched !
+2023-Oct-02 01:47:37 - ----> Vetri Science: Link fetched !
+2023-Oct-02 01:47:37 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=219
+2023-Oct-02 01:47:38 - Manufacturer html fetched
+2023-Oct-02 01:47:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:38 - Number of pages for be fetched for Virbac: 1
+2023-Oct-02 01:47:38 - ----> Virbac: Names fetched !
+2023-Oct-02 01:47:38 - ----> Virbac: Prices fetched !
+2023-Oct-02 01:47:38 - ----> Virbac: Link fetched !
+2023-Oct-02 01:47:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=127
+2023-Oct-02 01:47:38 - Manufacturer html fetched
+2023-Oct-02 01:47:38 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:38 - Number of pages for be fetched for Vital Essentials: 1
+2023-Oct-02 01:47:38 - ----> Vital Essentials: Names fetched !
+2023-Oct-02 01:47:38 - ----> Vital Essentials: Prices fetched !
+2023-Oct-02 01:47:38 - ----> Vital Essentials: Link fetched !
+2023-Oct-02 01:47:38 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=432
+2023-Oct-02 01:47:39 - Manufacturer html fetched
+2023-Oct-02 01:47:39 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:39 - Number of pages for be fetched for Vital Plus: 1
+2023-Oct-02 01:47:39 - ----> Vital Plus: Names fetched !
+2023-Oct-02 01:47:39 - ----> Vital Plus: Prices fetched !
+2023-Oct-02 01:47:39 - ----> Vital Plus: Link fetched !
+2023-Oct-02 01:47:39 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=131
+2023-Oct-02 01:47:40 - Manufacturer html fetched
+2023-Oct-02 01:47:40 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:40 - Number of pages for be fetched for Vuum: 1
+2023-Oct-02 01:47:40 - ----> Vuum: Names fetched !
+2023-Oct-02 01:47:40 - ----> Vuum: Prices fetched !
+2023-Oct-02 01:47:40 - ----> Vuum: Link fetched !
+2023-Oct-02 01:47:40 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=176
+2023-Oct-02 01:47:40 - Manufacturer html fetched
+2023-Oct-02 01:47:40 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:40 - Number of pages for be fetched for Wee Litter: 1
+2023-Oct-02 01:47:40 - ----> Wee Litter: Names fetched !
+2023-Oct-02 01:47:40 - ----> Wee Litter: Prices fetched !
+2023-Oct-02 01:47:40 - ----> Wee Litter: Link fetched !
+2023-Oct-02 01:47:40 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=157
+2023-Oct-02 01:47:41 - Manufacturer html fetched
+2023-Oct-02 01:47:41 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:41 - Number of pages for be fetched for Wellness: 1
+2023-Oct-02 01:47:41 - ----> Wellness: Names fetched !
+2023-Oct-02 01:47:41 - ----> Wellness: Prices fetched !
+2023-Oct-02 01:47:41 - ----> Wellness: Link fetched !
+2023-Oct-02 01:47:41 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=548
+2023-Oct-02 01:47:41 - Manufacturer html fetched
+2023-Oct-02 01:47:41 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:41 - Number of pages for be fetched for Wepharm 葡萄牙: 1
+2023-Oct-02 01:47:41 - ----> Wepharm 葡萄牙: Names fetched !
+2023-Oct-02 01:47:41 - ----> Wepharm 葡萄牙: Prices fetched !
+2023-Oct-02 01:47:41 - ----> Wepharm 葡萄牙: Link fetched !
+2023-Oct-02 01:47:41 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=98
+2023-Oct-02 01:47:42 - Manufacturer html fetched
+2023-Oct-02 01:47:42 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:42 - Number of pages for be fetched for Weruva: 1
+2023-Oct-02 01:47:42 - ----> Weruva: Names fetched !
+2023-Oct-02 01:47:42 - ----> Weruva: Prices fetched !
+2023-Oct-02 01:47:42 - ----> Weruva: Link fetched !
+2023-Oct-02 01:47:42 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=154
+2023-Oct-02 01:47:42 - Manufacturer html fetched
+2023-Oct-02 01:47:42 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:42 - Number of pages for be fetched for WishBone 威斯邦: 1
+2023-Oct-02 01:47:42 - ----> WishBone 威斯邦: Names fetched !
+2023-Oct-02 01:47:42 - ----> WishBone 威斯邦: Prices fetched !
+2023-Oct-02 01:47:43 - ----> WishBone 威斯邦: Link fetched !
+2023-Oct-02 01:47:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=90
+2023-Oct-02 01:47:43 - Manufacturer html fetched
+2023-Oct-02 01:47:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:43 - Number of pages for be fetched for Wuapu: 1
+2023-Oct-02 01:47:43 - ----> Wuapu: Names fetched !
+2023-Oct-02 01:47:43 - ----> Wuapu: Prices fetched !
+2023-Oct-02 01:47:43 - ----> Wuapu: Link fetched !
+2023-Oct-02 01:47:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=547
+2023-Oct-02 01:47:43 - Manufacturer html fetched
+2023-Oct-02 01:47:43 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:43 - Number of pages for be fetched for Wysong 威森: 1
+2023-Oct-02 01:47:43 - ----> Wysong 威森: Names fetched !
+2023-Oct-02 01:47:43 - ----> Wysong 威森: Prices fetched !
+2023-Oct-02 01:47:43 - ----> Wysong 威森: Link fetched !
+2023-Oct-02 01:47:43 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=500
+2023-Oct-02 01:47:44 - Manufacturer html fetched
+2023-Oct-02 01:47:44 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:44 - Number of pages for be fetched for YORA 英國: 1
+2023-Oct-02 01:47:44 - ----> YORA 英國: Names fetched !
+2023-Oct-02 01:47:44 - ----> YORA 英國: Prices fetched !
+2023-Oct-02 01:47:44 - ----> YORA 英國: Link fetched !
+2023-Oct-02 01:47:44 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=345
+2023-Oct-02 01:47:44 - Manufacturer html fetched
+2023-Oct-02 01:47:44 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:44 - Number of pages for be fetched for Zippets吉沛思: 1
+2023-Oct-02 01:47:44 - ----> Zippets吉沛思: Names fetched !
+2023-Oct-02 01:47:44 - ----> Zippets吉沛思: Prices fetched !
+2023-Oct-02 01:47:44 - ----> Zippets吉沛思: Link fetched !
+2023-Oct-02 01:47:44 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=104
+2023-Oct-02 01:47:45 - Manufacturer html fetched
+2023-Oct-02 01:47:45 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:45 - Number of pages for be fetched for Ziwipeak: 1
+2023-Oct-02 01:47:45 - ----> Ziwipeak: Names fetched !
+2023-Oct-02 01:47:45 - ----> Ziwipeak: Prices fetched !
+2023-Oct-02 01:47:45 - ----> Ziwipeak: Link fetched !
+2023-Oct-02 01:47:45 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=470
+2023-Oct-02 01:47:46 - Manufacturer html fetched
+2023-Oct-02 01:47:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:46 - Number of pages for be fetched for Zoe: 0
+2023-Oct-02 01:47:46 - ----> Zoe got no products....
+2023-Oct-02 01:47:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=389
+2023-Oct-02 01:47:46 - Manufacturer html fetched
+2023-Oct-02 01:47:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:46 - Number of pages for be fetched for 位您寵: 1
+2023-Oct-02 01:47:46 - ----> 位您寵: Names fetched !
+2023-Oct-02 01:47:46 - ----> 位您寵: Prices fetched !
+2023-Oct-02 01:47:46 - ----> 位您寵: Link fetched !
+2023-Oct-02 01:47:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=374
+2023-Oct-02 01:47:46 - Manufacturer html fetched
+2023-Oct-02 01:47:46 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:46 - Number of pages for be fetched for 台灣 Cocnilla 不麻煩鮮作寵食: 1
+2023-Oct-02 01:47:46 - ----> 台灣 Cocnilla 不麻煩鮮作寵食: Names fetched !
+2023-Oct-02 01:47:46 - ----> 台灣 Cocnilla 不麻煩鮮作寵食: Prices fetched !
+2023-Oct-02 01:47:46 - ----> 台灣 Cocnilla 不麻煩鮮作寵食: Link fetched !
+2023-Oct-02 01:47:46 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=466
+2023-Oct-02 01:47:47 - Manufacturer html fetched
+2023-Oct-02 01:47:47 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:47 - Number of pages for be fetched for 台灣 雨之情: 1
+2023-Oct-02 01:47:47 - ----> 台灣 雨之情: Names fetched !
+2023-Oct-02 01:47:47 - ----> 台灣 雨之情: Prices fetched !
+2023-Oct-02 01:47:47 - ----> 台灣 雨之情: Link fetched !
+2023-Oct-02 01:47:47 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=268
+2023-Oct-02 01:47:47 - Manufacturer html fetched
+2023-Oct-02 01:47:47 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:47 - Number of pages for be fetched for 台灣Pet Bay: 0
+2023-Oct-02 01:47:47 - ----> 台灣Pet Bay got no products....
+2023-Oct-02 01:47:47 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=534
+2023-Oct-02 01:47:48 - Manufacturer html fetched
+2023-Oct-02 01:47:48 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:48 - Number of pages for be fetched for 台灣怪獸部落 Litomon: 1
+2023-Oct-02 01:47:48 - ----> 台灣怪獸部落 Litomon: Names fetched !
+2023-Oct-02 01:47:48 - ----> 台灣怪獸部落 Litomon: Prices fetched !
+2023-Oct-02 01:47:48 - ----> 台灣怪獸部落 Litomon: Link fetched !
+2023-Oct-02 01:47:48 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=508
+2023-Oct-02 01:47:49 - Manufacturer html fetched
+2023-Oct-02 01:47:49 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:49 - Number of pages for be fetched for 台灣汪喵星球 Dog Cat Star: 1
+2023-Oct-02 01:47:49 - ----> 台灣汪喵星球 Dog Cat Star: Names fetched !
+2023-Oct-02 01:47:49 - ----> 台灣汪喵星球 Dog Cat Star: Prices fetched !
+2023-Oct-02 01:47:49 - ----> 台灣汪喵星球 Dog Cat Star: Link fetched !
+2023-Oct-02 01:47:49 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=538
+2023-Oct-02 01:47:49 - Manufacturer html fetched
+2023-Oct-02 01:47:49 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:49 - Number of pages for be fetched for 台灣路易 Louis: 1
+2023-Oct-02 01:47:49 - ----> 台灣路易 Louis: Names fetched !
+2023-Oct-02 01:47:49 - ----> 台灣路易 Louis: Prices fetched !
+2023-Oct-02 01:47:49 - ----> 台灣路易 Louis: Link fetched !
+2023-Oct-02 01:47:49 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=433
+2023-Oct-02 01:47:50 - Manufacturer html fetched
+2023-Oct-02 01:47:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:50 - Number of pages for be fetched for 喵師奶寵物食療工坊 Meow C9 Pet Products Workshop: 1
+2023-Oct-02 01:47:50 - ----> 喵師奶寵物食療工坊 Meow C9 Pet Products Workshop: Names fetched !
+2023-Oct-02 01:47:50 - ----> 喵師奶寵物食療工坊 Meow C9 Pet Products Workshop: Prices fetched !
+2023-Oct-02 01:47:50 - ----> 喵師奶寵物食療工坊 Meow C9 Pet Products Workshop: Link fetched !
+2023-Oct-02 01:47:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=106
+2023-Oct-02 01:47:50 - Manufacturer html fetched
+2023-Oct-02 01:47:50 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:50 - Number of pages for be fetched for 大塚製藥Otsuka: 1
+2023-Oct-02 01:47:50 - ----> 大塚製藥Otsuka: Names fetched !
+2023-Oct-02 01:47:50 - ----> 大塚製藥Otsuka: Prices fetched !
+2023-Oct-02 01:47:50 - ----> 大塚製藥Otsuka: Link fetched !
+2023-Oct-02 01:47:50 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=425
+2023-Oct-02 01:47:51 - Manufacturer html fetched
+2023-Oct-02 01:47:51 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:51 - Number of pages for be fetched for 天下貓貓自家品牌: 1
+2023-Oct-02 01:47:51 - ----> 天下貓貓自家品牌: Names fetched !
+2023-Oct-02 01:47:51 - ----> 天下貓貓自家品牌: Prices fetched !
+2023-Oct-02 01:47:51 - ----> 天下貓貓自家品牌: Link fetched !
+2023-Oct-02 01:47:51 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=375
+2023-Oct-02 01:47:51 - Manufacturer html fetched
+2023-Oct-02 01:47:51 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:51 - Number of pages for be fetched for 寵康霊: 1
+2023-Oct-02 01:47:51 - ----> 寵康霊: Names fetched !
+2023-Oct-02 01:47:51 - ----> 寵康霊: Prices fetched !
+2023-Oct-02 01:47:51 - ----> 寵康霊: Link fetched !
+2023-Oct-02 01:47:51 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=536
+2023-Oct-02 01:47:52 - Manufacturer html fetched
+2023-Oct-02 01:47:52 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:52 - Number of pages for be fetched for 寵物養生堂: 1
+2023-Oct-02 01:47:52 - ----> 寵物養生堂: Names fetched !
+2023-Oct-02 01:47:52 - ----> 寵物養生堂: Prices fetched !
+2023-Oct-02 01:47:52 - ----> 寵物養生堂: Link fetched !
+2023-Oct-02 01:47:52 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=62
+2023-Oct-02 01:47:52 - Manufacturer html fetched
+2023-Oct-02 01:47:52 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:52 - Number of pages for be fetched for 小白執事: 1
+2023-Oct-02 01:47:52 - ----> 小白執事: Names fetched !
+2023-Oct-02 01:47:52 - ----> 小白執事: Prices fetched !
+2023-Oct-02 01:47:52 - ----> 小白執事: Link fetched !
+2023-Oct-02 01:47:52 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=415
+2023-Oct-02 01:47:53 - Manufacturer html fetched
+2023-Oct-02 01:47:53 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:53 - Number of pages for be fetched for 日本 Probio Labo: 0
+2023-Oct-02 01:47:53 - ----> 日本 Probio Labo got no products....
+2023-Oct-02 01:47:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=457
+2023-Oct-02 01:47:53 - Manufacturer html fetched
+2023-Oct-02 01:47:53 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:53 - Number of pages for be fetched for 日本Meni-One: 1
+2023-Oct-02 01:47:53 - ----> 日本Meni-One: Names fetched !
+2023-Oct-02 01:47:53 - ----> 日本Meni-One: Prices fetched !
+2023-Oct-02 01:47:53 - ----> 日本Meni-One: Link fetched !
+2023-Oct-02 01:47:53 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=406
+2023-Oct-02 01:47:54 - Manufacturer html fetched
+2023-Oct-02 01:47:54 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:54 - Number of pages for be fetched for 日本Petline: 1
+2023-Oct-02 01:47:54 - ----> 日本Petline: Names fetched !
+2023-Oct-02 01:47:54 - ----> 日本Petline: Prices fetched !
+2023-Oct-02 01:47:54 - ----> 日本Petline: Link fetched !
+2023-Oct-02 01:47:54 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=461
+2023-Oct-02 01:47:55 - Manufacturer html fetched
+2023-Oct-02 01:47:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:55 - Number of pages for be fetched for 日本Petz Route: 1
+2023-Oct-02 01:47:55 - ----> 日本Petz Route: Names fetched !
+2023-Oct-02 01:47:55 - ----> 日本Petz Route: Prices fetched !
+2023-Oct-02 01:47:55 - ----> 日本Petz Route: Link fetched !
+2023-Oct-02 01:47:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=342
+2023-Oct-02 01:47:55 - Manufacturer html fetched
+2023-Oct-02 01:47:55 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:55 - Number of pages for be fetched for 日本PGT: 1
+2023-Oct-02 01:47:55 - ----> 日本PGT: Names fetched !
+2023-Oct-02 01:47:55 - ----> 日本PGT: Prices fetched !
+2023-Oct-02 01:47:55 - ----> 日本PGT: Link fetched !
+2023-Oct-02 01:47:55 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=370
+2023-Oct-02 01:47:56 - Manufacturer html fetched
+2023-Oct-02 01:47:56 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:56 - Number of pages for be fetched for 日本但馬高原: 1
+2023-Oct-02 01:47:56 - ----> 日本但馬高原: Names fetched !
+2023-Oct-02 01:47:56 - ----> 日本但馬高原: Prices fetched !
+2023-Oct-02 01:47:56 - ----> 日本但馬高原: Link fetched !
+2023-Oct-02 01:47:56 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=362
+2023-Oct-02 01:47:57 - Manufacturer html fetched
+2023-Oct-02 01:47:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:57 - Number of pages for be fetched for 日清JP和之究味: 1
+2023-Oct-02 01:47:57 - ----> 日清JP和之究味: Names fetched !
+2023-Oct-02 01:47:57 - ----> 日清JP和之究味: Prices fetched !
+2023-Oct-02 01:47:57 - ----> 日清JP和之究味: Link fetched !
+2023-Oct-02 01:47:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=250
+2023-Oct-02 01:47:57 - Manufacturer html fetched
+2023-Oct-02 01:47:57 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:57 - Number of pages for be fetched for 植物之芯: 1
+2023-Oct-02 01:47:57 - ----> 植物之芯: Names fetched !
+2023-Oct-02 01:47:57 - ----> 植物之芯: Prices fetched !
+2023-Oct-02 01:47:57 - ----> 植物之芯: Link fetched !
+2023-Oct-02 01:47:57 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=499
+2023-Oct-02 01:47:58 - Manufacturer html fetched
+2023-Oct-02 01:47:58 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:58 - Number of pages for be fetched for 為貓鍾情: 1
+2023-Oct-02 01:47:58 - ----> 為貓鍾情: Names fetched !
+2023-Oct-02 01:47:58 - ----> 為貓鍾情: Prices fetched !
+2023-Oct-02 01:47:58 - ----> 為貓鍾情: Link fetched !
+2023-Oct-02 01:47:58 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=137
+2023-Oct-02 01:47:59 - Manufacturer html fetched
+2023-Oct-02 01:47:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:59 - Number of pages for be fetched for 熊本課長: 1
+2023-Oct-02 01:47:59 - ----> 熊本課長: Names fetched !
+2023-Oct-02 01:47:59 - ----> 熊本課長: Prices fetched !
+2023-Oct-02 01:47:59 - ----> 熊本課長: Link fetched !
+2023-Oct-02 01:47:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=516
+2023-Oct-02 01:47:59 - Manufacturer html fetched
+2023-Oct-02 01:47:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:59 - Number of pages for be fetched for 白澤 x ITINNEY: 1
+2023-Oct-02 01:47:59 - ----> 白澤 x ITINNEY: Names fetched !
+2023-Oct-02 01:47:59 - ----> 白澤 x ITINNEY: Prices fetched !
+2023-Oct-02 01:47:59 - ----> 白澤 x ITINNEY: Link fetched !
+2023-Oct-02 01:47:59 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=63
+2023-Oct-02 01:47:59 - Manufacturer html fetched
+2023-Oct-02 01:47:59 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:47:59 - Number of pages for be fetched for 百補之王: 1
+2023-Oct-02 01:47:59 - ----> 百補之王: Names fetched !
+2023-Oct-02 01:47:59 - ----> 百補之王: Prices fetched !
+2023-Oct-02 01:47:59 - ----> 百補之王: Link fetched !
+2023-Oct-02 01:48:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=486
+2023-Oct-02 01:48:00 - Manufacturer html fetched
+2023-Oct-02 01:48:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:00 - Number of pages for be fetched for 皇室貴寵: 1
+2023-Oct-02 01:48:00 - ----> 皇室貴寵: Names fetched !
+2023-Oct-02 01:48:00 - ----> 皇室貴寵: Prices fetched !
+2023-Oct-02 01:48:00 - ----> 皇室貴寵: Link fetched !
+2023-Oct-02 01:48:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=472
+2023-Oct-02 01:48:00 - Manufacturer html fetched
+2023-Oct-02 01:48:00 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:00 - Number of pages for be fetched for 真味凍乾小食: 1
+2023-Oct-02 01:48:00 - ----> 真味凍乾小食: Names fetched !
+2023-Oct-02 01:48:00 - ----> 真味凍乾小食: Prices fetched !
+2023-Oct-02 01:48:00 - ----> 真味凍乾小食: Link fetched !
+2023-Oct-02 01:48:00 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=420
+2023-Oct-02 01:48:01 - Manufacturer html fetched
+2023-Oct-02 01:48:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:01 - Number of pages for be fetched for 美國 Petmate飛機籠: 1
+2023-Oct-02 01:48:01 - ----> 美國 Petmate飛機籠: Names fetched !
+2023-Oct-02 01:48:01 - ----> 美國 Petmate飛機籠: Prices fetched !
+2023-Oct-02 01:48:01 - ----> 美國 Petmate飛機籠: Link fetched !
+2023-Oct-02 01:48:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=165
+2023-Oct-02 01:48:01 - Manufacturer html fetched
+2023-Oct-02 01:48:01 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:01 - Number of pages for be fetched for 美國Go Cat專業貓玩具: 1
+2023-Oct-02 01:48:01 - ----> 美國Go Cat專業貓玩具: Names fetched !
+2023-Oct-02 01:48:01 - ----> 美國Go Cat專業貓玩具: Prices fetched !
+2023-Oct-02 01:48:01 - ----> 美國Go Cat專業貓玩具: Link fetched !
+2023-Oct-02 01:48:01 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=395
+2023-Oct-02 01:48:02 - Manufacturer html fetched
+2023-Oct-02 01:48:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:02 - Number of pages for be fetched for 美國艾露沛Allerpet: 1
+2023-Oct-02 01:48:02 - ----> 美國艾露沛Allerpet: Names fetched !
+2023-Oct-02 01:48:02 - ----> 美國艾露沛Allerpet: Prices fetched !
+2023-Oct-02 01:48:02 - ----> 美國艾露沛Allerpet: Link fetched !
+2023-Oct-02 01:48:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=196
+2023-Oct-02 01:48:02 - Manufacturer html fetched
+2023-Oct-02 01:48:02 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:02 - Number of pages for be fetched for 貓舍用: 1
+2023-Oct-02 01:48:02 - ----> 貓舍用: Names fetched !
+2023-Oct-02 01:48:02 - ----> 貓舍用: Prices fetched !
+2023-Oct-02 01:48:02 - ----> 貓舍用: Link fetched !
+2023-Oct-02 01:48:02 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=477
+2023-Oct-02 01:48:03 - Manufacturer html fetched
+2023-Oct-02 01:48:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:03 - Number of pages for be fetched for 韓國 Hyponic: 1
+2023-Oct-02 01:48:03 - ----> 韓國 Hyponic: Names fetched !
+2023-Oct-02 01:48:03 - ----> 韓國 Hyponic: Prices fetched !
+2023-Oct-02 01:48:03 - ----> 韓國 Hyponic: Link fetched !
+2023-Oct-02 01:48:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=478
+2023-Oct-02 01:48:03 - Manufacturer html fetched
+2023-Oct-02 01:48:03 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:03 - Number of pages for be fetched for 韓國 Mad Farmers: 1
+2023-Oct-02 01:48:03 - ----> 韓國 Mad Farmers: Names fetched !
+2023-Oct-02 01:48:03 - ----> 韓國 Mad Farmers: Prices fetched !
+2023-Oct-02 01:48:03 - ----> 韓國 Mad Farmers: Link fetched !
+2023-Oct-02 01:48:03 - Fetching from http://www.catiscat.com.hk/index.php?route=product/manufacturer/info&manufacturer_id=325
+2023-Oct-02 01:48:04 - Manufacturer html fetched
+2023-Oct-02 01:48:04 - Manufacturer name fetched: {manu_name}
+2023-Oct-02 01:48:04 - Number of pages for be fetched for 韓國 Nutri Plan: 0
+2023-Oct-02 01:48:04 - ----> 韓國 Nutri Plan got no products....
+2023-Oct-02 01:48:04 - 
+****************************************************************************************************************************
+
+2023-Oct-02 01:48:04 - Fetching from https://www.catiscat.com.hk/index.php?route=product/manufacturer finshed ! 4187 rows fetched. Time used: 190.9395394580206
+2023-Oct-02 01:48:04 - 
+****************************************************************************************************************************
+
