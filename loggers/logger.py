@@ -1,10 +1,11 @@
 import logging
+import os
 from datetime import datetime
 from pathlib import Path
 
 def set_logger(logger_name: str):
     filename = f"{logger_name}_{datetime.today().strftime('%Y_%b_%d_%H:%M:%S')}.log"
-    project_path = Path('.')
+    project_path = Path(os.getenv('ROOT'))
     loggers_path = project_path.joinpath('loggers')
 
     if not loggers_path.joinpath(logger_name).exists():
