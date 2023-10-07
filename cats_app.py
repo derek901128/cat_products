@@ -1,13 +1,14 @@
 import duckdb
 import polars as pl
 import streamlit as st
+from streamlit_tags import st_tags
 
 DB = "cat_products.db"
 
-def connect_db(db: str):
+def connect_db(db: str) -> duckdb.duckdb.DuckDBPyConnection:
     return duckdb.connect(db)
 
-def get_data_set(conn):
+def get_data_set(conn) -> pl.dataframe.frame.DataFrame:
     result = conn.execute(""" 
         select
             sitenames
@@ -23,7 +24,7 @@ def get_data_set(conn):
 
     return result
 
-def get_site_names(conn):
+def get_site_names(conn: duckdb.duckdb.DuckDBPyConnection) -> list[str]:
     sites = conn.execute("""
         select 
             distinct sitenames
@@ -32,6 +33,42 @@ def get_site_names(conn):
     """).fetchall()
 
     return [site[0] for site in sites]
+
+def get_final_results(
+    data: pl.dataframe.frame.DataFrame,
+    keywords_and: list[str],
+    keywords_or: list[str],
+    site_options: list[str],
+    bridge: str
+) -> pl.dataframe.frame.DataFrame:
+    with_sites = data.filter(pl.col("sitenames").is_in(site_options))
+    if not keywords_and and not keywords_or:
+        return with_sites
+    elif keywords_or and not keywords_and:
+        keywords_or = "|".join([kw.lower() for kw in keywords_or])
+        return with_sites.filter(pl.col("names").str.to_lowercase().str.contains(keywords_or))
+    elif keywords_and and not keywords_or:
+        for kw in keywords_and:
+            kw = kw.lower()
+            with_sites = with_sites.filter(pl.col("names").str.to_lowercase().str.contains(kw))
+        return with_sites
+    else:
+        keywords_and = [kw.lower() for kw in keywords_and]
+        keywords_or = "|".join([kw.lower() for kw in keywords_or])
+        match bridge:
+            case 'and':
+                for kw in keywords_and:
+                    with_sites = with_sites.filter(pl.col("names").str.to_lowercase().str.contains(kw))
+                return with_sites.filter(pl.col("names").str.contains(keywords_or))
+            case 'or':
+                for kw in keywords_and:
+                    with_sites = with_sites.filter(
+                        (
+                            pl.col("names").str.to_lowercase().str.contains(kw) |
+                            pl.col("names").str.to_lowercase().str.contains(keywords_or)
+                        )
+                    )
+                return with_sites
 
 def main():
     conn = connect_db(db=DB)
@@ -48,19 +85,53 @@ def main():
     site_options = st.multiselect(
         label="Search site name",
         options=sites,
-        default=sites
+        default=sites,
+        label_visibility='collapsed'
     )
 
-    name_search = st.text_input(
-        label="Search product name",
-        placeholder="Enter product name"
-    )
+    keywords_and = []
+    keywords_or = []
+    bridge_and_or = ''
+
+    with st.chat_message("assistant"):
+        st.write("Customize your search ⬇️⬇️⬇️")
+        and_col, bridge_radio, or_col = st.columns([2, 1, 2])
+
+        with and_col:
+            and_on = st.toggle("Search multiple keywords with the AND operator")
+            if and_on:
+                keywords_and = st_tags(
+                    label="Enter Keywords:",
+                    text="and...",
+                    maxtags=20,
+                    key=1
+                )
+
+        with bridge_radio:
+            bridge_and_or = st.radio(
+                "Bridge two sides with and/or",
+                options=['and', 'or']
+            )
+
+        with or_col:
+            or_on = st.toggle("Search multiple keywords with the OR operator")
+            if or_on:
+                keywords_or = st_tags(
+                    label="Enter Keywords:",
+                    text="or...",
+                    maxtags=20,
+                    key=2
+                )
 
     st.divider()
 
-    result = data_set.filter(
-        (pl.col("names").str.to_lowercase().str.contains(name_search.lower())) & (pl.col("sitenames").is_in(site_options))
-    ) if name_search else data_set.filter(pl.col("sitenames").is_in(site_options))
+    result = get_final_results(
+        data=data_set,
+        keywords_and=keywords_and,
+        keywords_or=keywords_or,
+        site_options=site_options,
+        bridge=bridge_and_or
+    )
 
     try:
         count_1 = result.group_by("sitenames").agg(pl.count("names").alias("count")).filter(pl.col("sitenames").str.contains("卷卷巿集"))[0, 1]
@@ -91,36 +162,34 @@ def main():
 
     st.divider()
 
-    metrics_msg = st.chat_message("assistant")
-    metrics_msg.write("Count from each site below ⬇️⬇️⬇️")
+    with st.chat_message("assistant"):
+        st.write("Count from each site below ⬇️⬇️⬇️")
 
-    metric_1, metric_2, metric_3, metric_4 = st.columns(4)
+        metric_1, metric_2, metric_3, metric_4 = st.columns(4)
 
-    with metric_1:
-        st.metric(
-            label="卷卷巿集",
-            value=count_1
-        )
+        with metric_1:
+            st.metric(
+                label="卷卷巿集",
+                value=count_1
+            )
 
-    with metric_2:
-        st.metric(
-            label="Cat is Cat",
-            value=count_2
-        )
+        with metric_2:
+            st.metric(
+                label="Cat is Cat",
+                value=count_2
+            )
 
-    with metric_3:
-        st.metric(
-            label="皮皮",
-            value=count_3
-        )
+        with metric_3:
+            st.metric(
+                label="皮皮",
+                value=count_3
+            )
 
-    with metric_4:
-        st.metric(
-            label="Super Pet",
-            value=count_4
-        )
+        with metric_4:
+            st.metric(
+                label="Super Pet",
+                value=count_4
+            )
 
 if __name__ == "__main__":
     main()
-
-
