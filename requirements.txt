@@ -1,3 +1,7 @@
 streamlit
 duckdb
 polars
+httpx
+polars
+selectolax
+playwright
