@@ -5,3 +5,4 @@ httpx
 polars
 selectolax
 playwright
+streamlit_tags
