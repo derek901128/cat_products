@@ -59,7 +59,7 @@ def main():
     st.divider()
 
     result = data_set.filter(
-        (pl.col("names").str.contains(name_search)) & (pl.col("sitenames").is_in(site_options))
+        (pl.col("names").str.to_lowercase().str.contains(name_search.lower())) & (pl.col("sitenames").is_in(site_options))
     ) if name_search else data_set.filter(pl.col("sitenames").is_in(site_options))
 
     try:
