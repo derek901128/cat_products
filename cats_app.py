@@ -82,12 +82,14 @@ def main():
 
     st.header('🐱🐱Search Cats Products🐱🐱', divider='rainbow')
 
-    site_options = st.multiselect(
-        label="Search site name",
-        options=sites,
-        default=sites,
-        label_visibility='collapsed'
-    )
+    with st.chat_message("assistant"):
+        st.write("Choose the sites ⬇️⬇️⬇️")
+        site_options = st.multiselect(
+            label="Search site name",
+            options=sites,
+            default=sites,
+            label_visibility='collapsed'
+        )
 
     keywords_and = []
     keywords_or = []
