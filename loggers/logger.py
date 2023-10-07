@@ -4,7 +4,7 @@ from pathlib import Path
 
 def set_logger(logger_name: str):
     filename = f"{logger_name}_{datetime.today().strftime('%Y_%b_%d_%H:%M:%S')}.log"
-    project_path = Path('/Users/derek901128/Desktop/programming languages/python/scripts/cats_prod_scraper')
+    project_path = Path('..').resolve()
     loggers_path = project_path.joinpath('loggers')
 
     if not loggers_path.joinpath(logger_name).exists():
