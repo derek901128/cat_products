@@ -1,4 +1,4 @@
-# cat_products
+# cat_products_search
 
 Here's how marriage works: your wife asks for something, and you deliver.
 
