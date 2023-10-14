@@ -6,3 +6,5 @@ polars
 selectolax
 playwright
 streamlit_tags
+boto3
+dotenv

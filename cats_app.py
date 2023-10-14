@@ -6,9 +6,17 @@ from streamlit_tags import st_tags
 DB = "cat_products.db"
 
 def connect_db(db: str) -> duckdb.duckdb.DuckDBPyConnection:
+    """
+    :param db: duckdb database string
+    :return: duckdb database connection
+    """
     return duckdb.connect(db)
 
 def get_data_set(conn) -> pl.dataframe.frame.DataFrame:
+    """
+    :param conn: duckdb database connect
+    :return: a polars result set that contains all of the items
+    """
     result = conn.execute(""" 
         select
             sitenames
@@ -16,7 +24,6 @@ def get_data_set(conn) -> pl.dataframe.frame.DataFrame:
             , weights
             , prices
             , extra_info
-            , last_updated
             , links
         from
             v_all_cat_products
@@ -25,6 +32,10 @@ def get_data_set(conn) -> pl.dataframe.frame.DataFrame:
     return result
 
 def get_site_names(conn: duckdb.duckdb.DuckDBPyConnection) -> list[str]:
+    """
+    :param conn: duckdb database connection
+    :return: a list that contains the names of the sites availble
+    """
     sites = conn.execute("""
         select 
             distinct sitenames
@@ -37,38 +48,22 @@ def get_site_names(conn: duckdb.duckdb.DuckDBPyConnection) -> list[str]:
 def get_final_results(
     data: pl.dataframe.frame.DataFrame,
     keywords_and: list[str],
-    keywords_or: list[str],
     site_options: list[str],
-    bridge: str
 ) -> pl.dataframe.frame.DataFrame:
+    """
+    :param data: a polar dataframe that contains the current items
+    :param keywords_and: a list of zero or more keywords as currently entered by the user
+    :param site_options: a list of zero ore more sitenames as currently selected by the user
+    :return: a polar dataframe filtered by the selected keywords and sitenames
+    """
     with_sites = data.filter(pl.col("sitenames").is_in(site_options))
-    if not keywords_and and not keywords_or:
+    if not keywords_and:
         return with_sites
-    elif keywords_or and not keywords_and:
-        keywords_or = "|".join([kw.lower() for kw in keywords_or])
-        return with_sites.filter(pl.col("names").str.to_lowercase().str.contains(keywords_or))
-    elif keywords_and and not keywords_or:
+    else:
         for kw in keywords_and:
             kw = kw.lower()
             with_sites = with_sites.filter(pl.col("names").str.to_lowercase().str.contains(kw))
         return with_sites
-    else:
-        keywords_and = [kw.lower() for kw in keywords_and]
-        keywords_or = "|".join([kw.lower() for kw in keywords_or])
-        match bridge:
-            case 'and':
-                for kw in keywords_and:
-                    with_sites = with_sites.filter(pl.col("names").str.to_lowercase().str.contains(kw))
-                return with_sites.filter(pl.col("names").str.contains(keywords_or))
-            case 'or':
-                for kw in keywords_and:
-                    with_sites = with_sites.filter(
-                        (
-                            pl.col("names").str.to_lowercase().str.contains(kw) |
-                            pl.col("names").str.to_lowercase().str.contains(keywords_or)
-                        )
-                    )
-                return with_sites
 
 def main():
     conn = connect_db(db=DB)
@@ -91,48 +86,23 @@ def main():
             label_visibility='collapsed'
         )
 
-    keywords_and = []
-    keywords_or = []
-    bridge_and_or = ''
 
     with st.chat_message("assistant"):
         st.write("Customize your search ⬇️⬇️⬇️")
-        and_col, bridge_radio, or_col = st.columns([2, 1, 2])
 
-        with and_col:
-            and_on = st.toggle("Search multiple keywords with the AND operator")
-            if and_on:
-                keywords_and = st_tags(
-                    label="Enter Keywords:",
-                    text="and...",
-                    maxtags=20,
-                    key=1
-                )
-
-        with bridge_radio:
-            bridge_and_or = st.radio(
-                "Bridge two sides with and/or",
-                options=['and', 'or']
-            )
-
-        with or_col:
-            or_on = st.toggle("Search multiple keywords with the OR operator")
-            if or_on:
-                keywords_or = st_tags(
-                    label="Enter Keywords:",
-                    text="or...",
-                    maxtags=20,
-                    key=2
-                )
+        keywords_and = st_tags(
+            label="Enter Keywords:",
+            text="and...",
+            maxtags=20,
+            key=1
+        )
 
     st.divider()
 
     result = get_final_results(
         data=data_set,
         keywords_and=keywords_and,
-        keywords_or=keywords_or,
-        site_options=site_options,
-        bridge=bridge_and_or
+        site_options=site_options
     )
 
     try:
@@ -153,11 +123,13 @@ def main():
         count_4 = 0
 
     result_msg = st.chat_message("assistant")
-    result_msg.write("Result below ⬇️⬇️⬇️")
+    result_msg.write("Result ⬇️⬇️⬇️")
 
     st.dataframe(
         result,
+        width=8000,
         column_config={
+            "names": st.column_config.TextColumn(width="large"),
             "links": st.column_config.LinkColumn("links")
         }
     )
@@ -165,7 +137,7 @@ def main():
     st.divider()
 
     with st.chat_message("assistant"):
-        st.write("Count from each site below ⬇️⬇️⬇️")
+        st.write("Number of items found from each site ⬇️⬇️⬇️")
 
         metric_1, metric_2, metric_3, metric_4 = st.columns(4)
 

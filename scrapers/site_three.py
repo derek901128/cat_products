@@ -4,14 +4,24 @@ import httpx
 import polars as pl
 import time
 
-def get_html(client, base_url, headers):
+def get_html(client: httpx.Client, base_url: str, headers: dict[str, str]) -> str:
+    """
+    :param client: a httpx Client that is used to create a http session
+    :param base_url: a string that represents the url to request
+    :param headers: a dictionary of key-value pair that helps the request
+    :return:a string that represents the html
+    """
     return client.get(base_url, headers=headers).text
 
 def get_manufacturers_links(html):
     return [node.attributes["href"]
             for node in HTMLParser(html).css(".manufacturer-content li a")]
 
-def get_manufactuers_page_count(html):
+def get_manufactuers_page_count(html: str) -> int:
+    """
+    :param html: a string that represents the html
+    :return:a number that represents the number of manufactures to be scraped
+    """
     manu_page_count = HTMLParser(html).css_first(".pagination .results", default=0)
     
     if manu_page_count != 0:
@@ -22,15 +32,27 @@ def get_manufactuers_page_count(html):
         
     return manu_page_count
 
-def get_products_names(html):
+def get_products_names(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of product names as strings
+    """
     return [node.text(strip=True)
             for node in HTMLParser(html).css(".name a")] 
     
-def get_products_links(html):
+def get_products_links(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of URLs to the product pages as strings
+    """
     return [node.attributes['href']
             for node in HTMLParser(html).css(".name a")]
     
-def get_products_prices(html):
+def get_products_prices(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of product prices as strings
+    """
     prices = []
     
     for node in HTMLParser(html).css('.price'):
@@ -117,4 +139,5 @@ def main():
     scrape_site_three()
 
 if __name__ == "__main__":
-    main()
+    with httpx.Client() as c:
+        print(type(c))

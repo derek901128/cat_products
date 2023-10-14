@@ -1,19 +1,34 @@
+from pathlib import Path
 from scrapers.site_one import scrape_site_one
 from scrapers.site_two import scrape_site_two
 from scrapers.site_three import scrape_site_three
 from scrapers.site_four import scrape_site_four
+import dotenv
+import boto3
 import duckdb
 import time
 
 def main():
-    conn = duckdb.connect("cat_products.db")
-
     start = time.perf_counter()
+    config = dotenv.dotenv_values('.env')
+    conn = duckdb.connect(config['DB'])
 
     site_one_products = scrape_site_one()
     site_two_products = scrape_site_two()
     site_three_products = scrape_site_three()
     site_four_products = scrape_site_four()
+
+    s3 = boto3.resource(
+        's3',
+        region_name=config['REGION'],
+        aws_access_key_id=config['AWS_KEY'],
+        aws_secret_access_key=config['AWS_SECRET_KEY']
+    )
+
+    for log in Path('.').glob('*.log'):
+        s3.Bucket(config['BUCKET']).upload_file(Filename=log, Key=log.as_posix())
+        print(f"Log for {log} is uploaded to S3!")
+        log.unlink()
 
     conn.execute("""
         drop table if exists site_one_products;
@@ -133,5 +148,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

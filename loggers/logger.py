@@ -1,18 +1,12 @@
 import logging
-import os
 from datetime import datetime
-from pathlib import Path
 
 def set_logger(logger_name: str):
+    """
+    :param logger_name: a string is used to name the log file
+    :return: a customer made logger that logs to terminal as well as log files
+    """
     filename = f"{logger_name}_{datetime.today().strftime('%Y_%b_%d_%H:%M:%S')}.log"
-    project_path = Path(os.getenv('ROOT'))
-    loggers_path = project_path.joinpath('loggers')
-
-    if not loggers_path.joinpath(logger_name).exists():
-        loggers_path.joinpath(logger_name).mkdir(exist_ok=True)
-
-    log_path = loggers_path.joinpath(logger_name)
-    log_fullpath = log_path / Path(filename)
 
     logger = logging.getLogger(logger_name)
     logger.setLevel(logging.INFO)
@@ -23,7 +17,7 @@ def set_logger(logger_name: str):
     console_handler.setLevel(logging.INFO)
     console_handler.setFormatter(formatter)
 
-    file_handler = logging.FileHandler(log_fullpath.as_posix())
+    file_handler = logging.FileHandler(filename)
     file_handler.setLevel(logging.INFO)
     file_handler.setFormatter(formatter)
 

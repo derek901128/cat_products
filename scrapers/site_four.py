@@ -58,7 +58,7 @@ prices = []
 categories = []
 links = []
 
-def scrape_site_four():
+def scrape_site_four() -> pl.DataFrame:
     start = time.perf_counter()
 
     logger = set_logger(logger_name='site_four_log')

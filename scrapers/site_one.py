@@ -2,7 +2,7 @@ from dataclasses import dataclass, asdict
 from loggers.logger import set_logger
 from playwright.sync_api import sync_playwright, TimeoutError
 from selectolax.parser import HTMLParser
-from typing import Optional
+from typing import Optional, Union
 import httpx
 import polars as pl
 import time
@@ -14,14 +14,32 @@ class Search:
     order_by: Optional[str] = ''
     limit: int = 72
 
-def get_html(client, base_url, search, headers):
+def get_html(
+        client: httpx.Client,
+        base_url: str,
+        search: dict[str, Union[str, int]],
+        headers: dict[str, str]
+) -> str:
+    """
+    :param client: a httpx Client that is used to create a http session
+    :param base_url: a string that represents the url to request
+    :param search: a dictionary that represents the search parameters of the request
+    :param headers: a dictionary of key-value pair that helps the request
+    :return:a string that represents the html
+    """
     return client.get(
         base_url,
         params=asdict(search), 
         headers=headers
     ).text
     
-def get_last_page_no(client, base_url, headers):
+def get_last_page_no(client: httpx.Client, base_url: str, headers: dict[str, str]) -> int:
+    """
+    :param client: a httpx Client that is used to create a http session
+    :param base_url: a string that represents the url to request
+    :param headers: a dictionary of key-value pair that helps the request
+    :return:an integer that represents the last page number to be scraped
+    """
     current_page = 1
     
     while True:
@@ -37,15 +55,27 @@ def get_last_page_no(client, base_url, headers):
     
     return current_page
 
-def get_names(html):
+def get_names(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of product names as strings
+    """
     return [node.text(strip=True) 
             for node in HTMLParser(html).css("product-item .info-box div.title.text-primary-color")]
 
-def get_prod_links(html):
+def get_prod_links(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of URLs to the product pages as strings
+    """
     return [node.attributes["href"] 
             for node in HTMLParser(html).css("product-item a")]
 
-def get_weight_flavor_price(url):
+def get_weight_flavor_price(url: str) -> list[list[str]]:
+    """
+    :param url: a string that presents a product page
+    :return: a list of one or more lists that includes 3 string elements, namely the product weight, flavor and price
+    """
     price_selectors = [
         '.product-detail-actions .price:not(.price-crossed)',
         '.product-detail-actions .price-label:not(.price-crossed)',
@@ -125,13 +155,15 @@ def get_weight_flavor_price(url):
 def scrape_site_one() -> pl.DataFrame:
     start = time.perf_counter()
 
-    logger = set_logger(logger_name='site_one_log')
+    logger = set_logger(
+        logger_name='site_one_log'
+    )
 
     base_url = "https://www.teruhomu.com/categories/cat-product"
 
     headers = {
-        "content-type" : "text/html; charset=utf-8",
-        "User-Agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        "content-type": "text/html; charset=utf-8",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
     }
 
     products = []

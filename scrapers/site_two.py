@@ -4,10 +4,21 @@ import httpx
 import polars as pl
 import time
 
-def get_html(client, base_url, headers):
+def get_html(client: httpx.Client, base_url: str, headers: dict[str, str]) -> str:
+    """
+    :param client: a httpx Client that is used to create a http session
+    :param base_url: a string that represents the url to request
+    :param headers: a dictionary of key-value pair that helps the request
+    :return:a string that represents the html
+    """
     return client.get(base_url, headers=headers).text
     
-def get_last_page_no(client, headers):
+def get_last_page_no(client: httpx.Client, headers: dict[str, str]) -> int:
+    """
+    :param client: a httpx Client that is used to create a http session
+    :param headers: a dictionary of key-value pair that helps the request
+    :return:an integer that represents the last page number to be scraped
+    """
     current_page = 2
     while True:
         html = get_html(client, f"https://superpetmo.com/product-category/cats/page/{current_page}/", headers)
@@ -22,21 +33,33 @@ def get_last_page_no(client, headers):
     
     return current_page
 
-def get_names(html):
+def get_names(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of product names as strings
+    """
     return [node.text(strip=True) 
             for node in HTMLParser(html).css(".woocommerce-loop-product__title")]
 
-def get_prices(html):
+def get_prices(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return:a list of product prices as strings
+    """
     return [node.text(strip=True).split("$")[-1]
             if node.text(strip=True).find("$", 1) > 0
             else node.text(strip=True).split("$")[1]
             for node in HTMLParser(html).css(".price")]
 
-def get_links(html):
+def get_links(html: str) -> list[str]:
+    """
+    :param html: a string that represents the html
+    :return: a list of URLs to the product pages as strings
+    """
     return [node.attributes["href"] 
             for node in HTMLParser(html).css(".products.columns-5 li div:nth-child(1) a:nth-child(1)")]
 
-def scrape_site_two():
+def scrape_site_two() -> pl.DataFrame:
     start = time.perf_counter()
 
     logger = set_logger(logger_name='site_two_log')
