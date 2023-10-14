@@ -12,7 +12,7 @@ def connect_db(db: str) -> duckdb.duckdb.DuckDBPyConnection:
     """
     return duckdb.connect(db)
 
-def get_data_set(conn：duckdb.duckdb.DuckDBPyConnection）-> pl.dataframe.frame.DataFrame:
+def get_data_set(conn: duckdb.duckdb.DuckDBPyConnection) -> pl.dataframe.frame.DataFrame:
     """
     :param conn: duckdb database connect
     :return: a polars result set that contains all of the items

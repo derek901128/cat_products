@@ -88,7 +88,8 @@ def main():
     print("Table created for site four!")
 
     conn.execute("""
-        create or replace view v_all_cat_products as
+        drop table if exists all_cat_products;
+        create table all_cat_products as
             select
                 sitenames
                 , names
@@ -135,7 +136,7 @@ def main():
     """)
 
     rows_inserted = conn.sql("""
-        select count(*) from v_all_cat_products;
+        select count(*) from all_cat_products;
     """).fetchall()[0][0]
 
     conn.close()
