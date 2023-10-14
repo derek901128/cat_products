@@ -4,7 +4,7 @@ from datetime import datetime
 def set_logger(logger_name: str):
     """
     :param logger_name: a string is used to name the log file
-    :return: a customer made logger that logs to terminal as well as log files
+    :return: a custome made logger that logs to terminal as well as log files
     """
     filename = f"{logger_name}_{datetime.today().strftime('%Y_%b_%d_%H:%M:%S')}.log"
 
