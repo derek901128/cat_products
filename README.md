@@ -4,8 +4,6 @@ Here's how marriage works: your wife asks for something, and you deliver.
 
 And here it is, a simple web app that allows my wife to search for cat products info from 4 different sites, collected through websraping.
 
-Link to the app: https://jacjaccatcat.streamlit.app/
-
 Everything is written in Python, something my wife couldn't care less about. 
 
 Dependencies include:
